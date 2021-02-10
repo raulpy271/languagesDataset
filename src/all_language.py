@@ -43,6 +43,9 @@ def get_all_languages():
 if __name__ == '__main__':
     all_languages = get_all_languages()
     df = DataFrame(all_languages)
-    df.to_csv(log_path + 'name_link.csv', sep=';', index=False)
+    df.to_csv(
+        log_path + 'languages.tsv',
+        sep='\t',
+        index=False)
 
 

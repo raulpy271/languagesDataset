@@ -1,6 +1,7 @@
-from .driver import get_driver
+from pandas import DataFrame
 
-from .consts import link_to_all_languages
+from .driver import get_driver
+from .consts import link_to_all_languages, log_path
 
 
 def get_all_div_with_languages(driver):
@@ -35,10 +36,13 @@ def get_all_languages():
     driver.get(link_to_all_languages)
     divs_with_languages = get_all_div_with_languages(driver)
     all_languages = get_all_languages_from_divs(divs_with_languages)
+    driver.quit()
     return all_languages
 
 
 if __name__ == '__main__':
-    print(get_all_languages())
+    all_languages = get_all_languages()
+    df = DataFrame(all_languages)
+    df.to_csv(log_path + 'name_link.csv', sep=';', index=False)
 
 

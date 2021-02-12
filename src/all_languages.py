@@ -47,7 +47,7 @@ if __name__ == '__main__':
     driver = get_driver()
     df = get_all_languages_in_df(driver, link_to_all_languages)
     df.to_csv(
-        log_path + 'languages.tsv',
+        log_path + 'links.tsv',
         sep='\t',
         index=False)
     driver.quit()

@@ -14,11 +14,16 @@ def get_all_languages_details(driver, languages_links):
     return all_languages_details
 
 
+def get_all_languages_details_in_df(driver, languages_links):
+    all_languages_details = get_all_languages_details(driver, languages_links)
+    df = DataFrame(all_languages_details)
+    return df
+
+
 if __name__ == '__main__':
     driver = get_driver()
-    df = read_csv(log_path + '/languages.tsv', sep='\t')
-    links = df['link']
-    all_languages_details = get_all_languages_details(driver, links)
+    df = read_csv(log_path + 'links.tsv', sep='\t')
+    df = get_all_languages_details_in_df(driver, df['link'])
     driver.quit()
 
 

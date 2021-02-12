@@ -22,7 +22,7 @@ def get_all_languages_details_in_df(driver, languages_links):
 
 if __name__ == '__main__':
     driver = get_driver()
-    df = read_csv(log_path + '/languages.tsv', sep='\t')
+    df = read_csv(log_path + 'links.tsv', sep='\t')
     df = get_all_languages_details_in_df(driver, df['link'])
     driver.quit()
 

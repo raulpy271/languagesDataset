@@ -31,21 +31,25 @@ def get_all_languages_from_divs(divs):
     return all_languages
 
 
-def get_all_languages():
-    driver = get_driver()
+def get_all_languages(driver, link_to_all_languages):
     driver.get(link_to_all_languages)
     divs_with_languages = get_all_div_with_languages(driver)
     all_languages = get_all_languages_from_divs(divs_with_languages)
-    driver.quit()
     return all_languages
 
 
+def get_all_languages_in_df(driver, link_to_all_languages):
+    all_languages = get_all_languages(driver, link_to_all_languages)
+    return DataFrame(all_languages)
+
+
 if __name__ == '__main__':
-    all_languages = get_all_languages()
-    df = DataFrame(all_languages)
+    driver = get_driver()
+    df = get_all_languages_in_df(driver, link_to_all_languages)
     df.to_csv(
         log_path + 'languages.tsv',
         sep='\t',
         index=False)
+    driver.quit()
 
 

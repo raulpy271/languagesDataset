@@ -8,19 +8,22 @@ def get_first_paragraph(driver):
     return first_paragraph.text
 
 
-def get_details_about_language_from_wiki(language_wiki):
-    language_details = {}
-    driver = get_driver()
+def get_details_about_language_from_wiki(driver, language_wiki):
+    language_details = {
+        'link': language_wiki}
     driver.get(language_wiki)
     language_details['about'] = get_first_paragraph(driver)
-    driver.quit()
     return language_details
 
 
 if __name__ == '__main__':
+    driver = get_driver()
     language_wiki = (
         'https://en.wikipedia.org/wiki/Clojure')
-    language_details = get_details_about_language_from_wiki(language_wiki)
+    language_details = get_details_about_language_from_wiki(
+        driver,
+        language_wiki)
     print(language_details)
+    driver.quit()
 
 

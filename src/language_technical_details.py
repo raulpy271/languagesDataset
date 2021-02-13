@@ -2,10 +2,14 @@ from .driver import get_driver
 
 
 def get_first_paragraph(driver):
+    first_paragraph = ''
     all_paragraphs = driver.find_elements_by_css_selector(
         'div.mw-parser-output>p')
-    first_paragraph = all_paragraphs[0]
-    return first_paragraph.text
+    for paragraph in all_paragraphs:
+        if paragraph.text:
+            first_paragraph = paragraph.text
+            break
+    return first_paragraph
 
 
 def get_details_about_language_from_wiki(driver, language_wiki):

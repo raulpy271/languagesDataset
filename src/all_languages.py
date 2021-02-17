@@ -1,7 +1,7 @@
 from pandas import DataFrame
 
 from .driver import get_driver
-from .consts import link_to_all_languages, log_path
+from .consts import link_to_all_languages, path_to_links_dataset
 
 
 def get_all_div_with_languages(driver):
@@ -38,16 +38,16 @@ def get_all_languages(driver, link_to_all_languages):
     return all_languages
 
 
-def get_all_languages_in_df(driver, link_to_all_languages):
+def get_df_with_all_languages(driver, link_to_all_languages):
     all_languages = get_all_languages(driver, link_to_all_languages)
     return DataFrame(all_languages)
 
 
 if __name__ == '__main__':
     driver = get_driver()
-    df = get_all_languages_in_df(driver, link_to_all_languages)
+    df = get_df_with_all_languages(driver, link_to_all_languages)
     df.to_csv(
-        log_path + 'links.tsv',
+        path_to_links_dataset,
         sep='\t',
         index=False)
     driver.quit()

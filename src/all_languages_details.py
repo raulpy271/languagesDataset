@@ -1,7 +1,7 @@
 from pandas import DataFrame, read_csv
 
 from .driver import get_driver
-from .consts import log_path
+from .consts import path_to_links_dataset
 from .language_technical_details import get_details_about_language_from_wiki
 
 
@@ -22,7 +22,7 @@ def get_all_languages_details_in_df(driver, languages_links):
 
 if __name__ == '__main__':
     driver = get_driver()
-    df = read_csv(log_path + 'links.tsv', sep='\t')
+    df = read_csv(path_to_links_dataset, sep='\t')
     df = get_all_languages_details_in_df(driver, df['link'])
     driver.quit()
 

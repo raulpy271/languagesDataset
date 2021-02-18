@@ -7,8 +7,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-firefox_path = environ.get('firefox_path')
-driver_path = environ.get('driver_path')
+firefox_path = environ.get('FIREFOX_PATH')
+driver_path = environ.get('DRIVER_PATH')
 
 
 def get_driver():

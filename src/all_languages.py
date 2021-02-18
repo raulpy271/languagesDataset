@@ -15,7 +15,7 @@ def get_links_to_languages_from_div(div):
 def get_language_info_from_link(link):
     return {
         'name': link.get_property('title'),
-        'link': link.get_property('href')}
+        'source': link.get_property('href')}
 
 
 def get_all_languages_from_div(div):

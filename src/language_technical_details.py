@@ -60,11 +60,10 @@ def get_first_paragraph(driver):
 def get_details_about_language_from_wiki(driver, language_wiki):
     language_details = {}
     driver.get(language_wiki)
-    link = get_website(driver)
     language_details['about'] = get_first_paragraph(driver)
     language_details['types'] = get_list_of_type_systems(driver)
     language_details['paradigms'] = get_paradigms(driver)
-    language_details['link'] = link if link else language_wiki
+    language_details['website'] = get_website(driver)
     return language_details
 
 

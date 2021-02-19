@@ -1,6 +1,7 @@
 from pandas import DataFrame
 
 from .driver import get_driver
+from .utils import remove_id_from_url
 from .consts import link_to_all_languages, path_to_links_dataset
 
 
@@ -40,7 +41,9 @@ def get_all_languages(driver, link_to_all_languages):
 
 def get_df_with_all_languages(driver, link_to_all_languages):
     all_languages = get_all_languages(driver, link_to_all_languages)
-    return DataFrame(all_languages)
+    df = DataFrame(all_languages)
+    df['source'] = df['source'].map(remove_id_from_url)
+    return df
 
 
 if __name__ == '__main__':

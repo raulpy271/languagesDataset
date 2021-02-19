@@ -2,9 +2,14 @@ from .driver import get_driver
 
 
 def get_infobox_rows(driver):
-    infobox_table = driver.find_element_by_css_selector('table>tbody')
-    rows_in_infobox = infobox_table.find_elements_by_css_selector('tr')
-    return rows_in_infobox
+    try:
+        infobox_selector = 'table.infobox>tbody'
+        infobox_table = driver.find_element_by_css_selector(infobox_selector)
+        rows_in_infobox = infobox_table.find_elements_by_css_selector('tr')
+    except:
+        rows_in_infobox = []
+    finally:
+        return rows_in_infobox
 
 
 def get_row_from_infobox_with_an_specific_text(driver, text):

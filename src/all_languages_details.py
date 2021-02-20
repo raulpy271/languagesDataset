@@ -1,4 +1,5 @@
 from pandas import DataFrame, read_csv
+from tqdm import tqdm
 
 from .driver import get_driver
 from .consts import path_to_links_dataset
@@ -15,7 +16,9 @@ def get_all_languages_details(driver, languages_links):
 
 
 def get_all_languages_details_in_df(driver, languages_links):
-    all_languages_details = get_all_languages_details(driver, languages_links)
+    links_with_progress_bar = tqdm(languages_links)
+    all_languages_details = get_all_languages_details(
+        driver, links_with_progress_bar)
     df = DataFrame(all_languages_details)
     return df
 

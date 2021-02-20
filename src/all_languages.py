@@ -43,6 +43,7 @@ def get_df_with_all_languages(driver, link_to_all_languages):
     all_languages = get_all_languages(driver, link_to_all_languages)
     df = DataFrame(all_languages)
     df['source'] = df['source'].map(remove_id_from_url)
+    df = df.drop_duplicates()
     return df
 
 

@@ -26,9 +26,10 @@ def get_list_of_type_systems(driver):
         get_row_from_infobox_with_an_specific_text(driver, text_to_search)) 
     if typing_td:
         link_elements_with_types = typing_td.find_elements_by_css_selector('a')
-        types = map(
-            lambda element: element.text, link_elements_with_types)
-        return list(types)
+        if link_elements_with_types:
+            types = map(
+                lambda element: element.text, link_elements_with_types)
+            return list(types)
 
 
 def get_paradigms(driver):
@@ -38,9 +39,10 @@ def get_paradigms(driver):
     if paradigms_td:
         link_elements_with_paradigms = (
             paradigms_td.find_elements_by_css_selector('a'))
-        paradigms = map(
-            lambda element: element.text, link_elements_with_paradigms)
-        return list(paradigms)
+        if link_elements_with_paradigms:
+            paradigms = map(
+                lambda element: element.text, link_elements_with_paradigms)
+            return list(paradigms)
 
 
 def get_website(driver):

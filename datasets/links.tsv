@@ -1,693 +1,693 @@
 name	source
-A.NET	https://en.wikipedia.org/wiki/A_Sharp_(.NET)
-A-0 System	https://en.wikipedia.org/wiki/A-0_System
-A+	https://en.wikipedia.org/wiki/A%2B_(programming_language)
-ABAP	https://en.wikipedia.org/wiki/ABAP
-ABC	https://en.wikipedia.org/wiki/ABC_(programming_language)
-ABC ALGOL	https://en.wikipedia.org/wiki/ABC_ALGOL
-ACC	https://en.wikipedia.org/wiki/ACC_(programming_language)
-Accent	https://en.wikipedia.org/wiki/Accent_(programming_language)
-Ace DASL (Distributed Application Specification Language)	https://en.wikipedia.org/wiki/Distributed_Application_Specification_Language
-Action!	https://en.wikipedia.org/wiki/Action!_(programming_language)
-ActionScript	https://en.wikipedia.org/wiki/ActionScript
-Actor	https://en.wikipedia.org/wiki/Actor_(programming_language)
-Ada	https://en.wikipedia.org/wiki/Ada_(programming_language)
-Adenine	https://en.wikipedia.org/wiki/Adenine_(programming_language)
-AdvPL	https://en.wikipedia.org/wiki/AdvPL
-Agda	https://en.wikipedia.org/wiki/Agda_(theorem_prover)
-Agilent VEE	https://en.wikipedia.org/wiki/Agilent_VEE
-Agora	https://en.wikipedia.org/wiki/Agora_(programming_language)
-AIMMS	https://en.wikipedia.org/wiki/AIMMS
-Aldor	https://en.wikipedia.org/wiki/Aldor
-Alef	https://en.wikipedia.org/wiki/Alef_(programming_language)
-ALF	https://en.wikipedia.org/wiki/Algebraic_Logic_Functional_programming_language
-ALGOL 58	https://en.wikipedia.org/wiki/ALGOL_58
-ALGOL 60	https://en.wikipedia.org/wiki/ALGOL_60
-ALGOL 68	https://en.wikipedia.org/wiki/ALGOL_68
-ALGOL W	https://en.wikipedia.org/wiki/ALGOL_W
-Alice	https://en.wikipedia.org/wiki/Alice_(programming_language)
-Alma-0	https://en.wikipedia.org/wiki/Alma-0
-AmbientTalk	https://en.wikipedia.org/wiki/AmbientTalk
-Amiga E	https://en.wikipedia.org/wiki/Amiga_E
-AMOS	https://en.wikipedia.org/wiki/AMOS_(programming_language)
-AMPL	https://en.wikipedia.org/wiki/AMPL
-AngelScript	https://en.wikipedia.org/wiki/AngelScript
-Apache Pig latin	https://en.wikipedia.org/wiki/Apache_Pig
-Apex	https://en.wikipedia.org/wiki/Apex_(programming_language)
-APL	https://en.wikipedia.org/wiki/APL_(programming_language)
-App Inventor for Android's visual block language	https://en.wikipedia.org/wiki/App_Inventor_for_Android_(programming_language)
-AppleScript	https://en.wikipedia.org/wiki/AppleScript
-APT	https://en.wikipedia.org/wiki/APT_(programming_language)
-Arc	https://en.wikipedia.org/wiki/Arc_(programming_language)
-ARexx	https://en.wikipedia.org/wiki/ARexx
-Argus	https://en.wikipedia.org/wiki/Argus_(programming_language)
-Assembly language	https://en.wikipedia.org/wiki/Assembly_language
-AutoHotkey	https://en.wikipedia.org/wiki/AutoHotkey
-AutoIt	https://en.wikipedia.org/wiki/AutoIt
-AutoLISP / Visual LISP	https://en.wikipedia.org/wiki/AutoLISP
-Averest	https://en.wikipedia.org/wiki/Averest
-AWK	https://en.wikipedia.org/wiki/AWK
-Axum	https://en.wikipedia.org/wiki/Axum_(programming_language)
-B	https://en.wikipedia.org/wiki/B_(programming_language)
-Babbage	https://en.wikipedia.org/wiki/Babbage_(programming_language)
-Ballerina	https://en.wikipedia.org/wiki/Ballerina_(programming_language)
-Bash	https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-BASIC	https://en.wikipedia.org/wiki/BASIC
-Batch file (Windows/MS-DOS)	https://en.wikipedia.org/wiki/Batch_file
+a.net	https://en.wikipedia.org/wiki/A_Sharp_(.NET)
+a-0 system	https://en.wikipedia.org/wiki/A-0_System
+a+	https://en.wikipedia.org/wiki/A%2B_(programming_language)
+abap	https://en.wikipedia.org/wiki/ABAP
+abc	https://en.wikipedia.org/wiki/ABC_(programming_language)
+abc algol	https://en.wikipedia.org/wiki/ABC_ALGOL
+acc	https://en.wikipedia.org/wiki/ACC_(programming_language)
+accent	https://en.wikipedia.org/wiki/Accent_(programming_language)
+ace dasl	https://en.wikipedia.org/wiki/Distributed_Application_Specification_Language
+action!	https://en.wikipedia.org/wiki/Action!_(programming_language)
+actionscript	https://en.wikipedia.org/wiki/ActionScript
+actor	https://en.wikipedia.org/wiki/Actor_(programming_language)
+ada	https://en.wikipedia.org/wiki/Ada_(programming_language)
+adenine	https://en.wikipedia.org/wiki/Adenine_(programming_language)
+advpl	https://en.wikipedia.org/wiki/AdvPL
+agda	https://en.wikipedia.org/wiki/Agda_(theorem_prover)
+agilent vee	https://en.wikipedia.org/wiki/Agilent_VEE
+agora	https://en.wikipedia.org/wiki/Agora_(programming_language)
+aimms	https://en.wikipedia.org/wiki/AIMMS
+aldor	https://en.wikipedia.org/wiki/Aldor
+alef	https://en.wikipedia.org/wiki/Alef_(programming_language)
+alf	https://en.wikipedia.org/wiki/Algebraic_Logic_Functional_programming_language
+algol 58	https://en.wikipedia.org/wiki/ALGOL_58
+algol 60	https://en.wikipedia.org/wiki/ALGOL_60
+algol 68	https://en.wikipedia.org/wiki/ALGOL_68
+algol w	https://en.wikipedia.org/wiki/ALGOL_W
+alice	https://en.wikipedia.org/wiki/Alice_(programming_language)
+alma-0	https://en.wikipedia.org/wiki/Alma-0
+ambienttalk	https://en.wikipedia.org/wiki/AmbientTalk
+amiga e	https://en.wikipedia.org/wiki/Amiga_E
+amos	https://en.wikipedia.org/wiki/AMOS_(programming_language)
+ampl	https://en.wikipedia.org/wiki/AMPL
+angelscript	https://en.wikipedia.org/wiki/AngelScript
+apache pig latin	https://en.wikipedia.org/wiki/Apache_Pig
+apex	https://en.wikipedia.org/wiki/Apex_(programming_language)
+apl	https://en.wikipedia.org/wiki/APL_(programming_language)
+app inventor for android's visual block language	https://en.wikipedia.org/wiki/App_Inventor_for_Android_(programming_language)
+applescript	https://en.wikipedia.org/wiki/AppleScript
+apt	https://en.wikipedia.org/wiki/APT_(programming_language)
+arc	https://en.wikipedia.org/wiki/Arc_(programming_language)
+arexx	https://en.wikipedia.org/wiki/ARexx
+argus	https://en.wikipedia.org/wiki/Argus_(programming_language)
+assembly language	https://en.wikipedia.org/wiki/Assembly_language
+autohotkey	https://en.wikipedia.org/wiki/AutoHotkey
+autoit	https://en.wikipedia.org/wiki/AutoIt
+autolisp / visual lisp	https://en.wikipedia.org/wiki/AutoLISP
+averest	https://en.wikipedia.org/wiki/Averest
+awk	https://en.wikipedia.org/wiki/AWK
+axum	https://en.wikipedia.org/wiki/Axum_(programming_language)
+b	https://en.wikipedia.org/wiki/B_(programming_language)
+babbage	https://en.wikipedia.org/wiki/Babbage_(programming_language)
+ballerina	https://en.wikipedia.org/wiki/Ballerina_(programming_language)
+bash	https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+basic	https://en.wikipedia.org/wiki/BASIC
+batch file	https://en.wikipedia.org/wiki/Batch_file
 bc	https://en.wikipedia.org/wiki/Bc_(programming_language)
-BCPL	https://en.wikipedia.org/wiki/BCPL
-BeanShell	https://en.wikipedia.org/wiki/BeanShell
-Bertrand	https://en.wikipedia.org/wiki/Bertrand_(programming_language)
-BETA	https://en.wikipedia.org/wiki/BETA_(programming_language)
-BLISS	https://en.wikipedia.org/wiki/BLISS_(programming_language)
-Blockly	https://en.wikipedia.org/wiki/Blockly
-BlooP	https://en.wikipedia.org/wiki/BlooP_and_FlooP
-Boo	https://en.wikipedia.org/wiki/Boo_(programming_language)
-Boomerang	https://en.wikipedia.org/wiki/Boomerang_(programming_language)
-Bosque	https://en.wikipedia.org/wiki/Bosque_(programming_language)
-C	https://en.wikipedia.org/wiki/C_(programming_language)
-C--	https://en.wikipedia.org/wiki/C--
-C++	https://en.wikipedia.org/wiki/C%2B%2B
-C*	https://en.wikipedia.org/wiki/C*
-C#	https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-C/AL	https://en.wikipedia.org/wiki/C/AL
-Caché ObjectScript	https://en.wikipedia.org/wiki/Cach%C3%A9_ObjectScript
-C Shell (csh)	https://en.wikipedia.org/wiki/C_Shell
-Caml	https://en.wikipedia.org/wiki/Caml
-Cayenne	https://en.wikipedia.org/wiki/Cayenne_(programming_language)
-CDuce	https://en.wikipedia.org/wiki/CDuce
-Cecil	https://en.wikipedia.org/wiki/Cecil_(programming_language)
-Cesil	https://en.wikipedia.org/wiki/Cesil
-Céu	https://en.wikipedia.org/wiki/C%C3%A9u_(programming_language)
-Ceylon	https://en.wikipedia.org/wiki/Ceylon_(programming_language)
-CFEngine	https://en.wikipedia.org/wiki/CFEngine
-Cg	https://en.wikipedia.org/wiki/Cg_(programming_language)
-Ch	https://en.wikipedia.org/wiki/Ch_(computer_programming)
-Chapel	https://en.wikipedia.org/wiki/Chapel_(programming_language)
-Charm	https://en.wikipedia.org/wiki/Charm_(language)
-CHILL	https://en.wikipedia.org/wiki/CHILL
-CHIP-8	https://en.wikipedia.org/wiki/CHIP-8
+bcpl	https://en.wikipedia.org/wiki/BCPL
+beanshell	https://en.wikipedia.org/wiki/BeanShell
+bertrand	https://en.wikipedia.org/wiki/Bertrand_(programming_language)
+beta	https://en.wikipedia.org/wiki/BETA_(programming_language)
+bliss	https://en.wikipedia.org/wiki/BLISS_(programming_language)
+blockly	https://en.wikipedia.org/wiki/Blockly
+bloop	https://en.wikipedia.org/wiki/BlooP_and_FlooP
+boo	https://en.wikipedia.org/wiki/Boo_(programming_language)
+boomerang	https://en.wikipedia.org/wiki/Boomerang_(programming_language)
+bosque	https://en.wikipedia.org/wiki/Bosque_(programming_language)
+c	https://en.wikipedia.org/wiki/C_(programming_language)
+c--	https://en.wikipedia.org/wiki/C--
+c++	https://en.wikipedia.org/wiki/C%2B%2B
+c*	https://en.wikipedia.org/wiki/C*
+c#	https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+c/al	https://en.wikipedia.org/wiki/C/AL
+caché objectscript	https://en.wikipedia.org/wiki/Cach%C3%A9_ObjectScript
+c shell	https://en.wikipedia.org/wiki/C_Shell
+caml	https://en.wikipedia.org/wiki/Caml
+cayenne	https://en.wikipedia.org/wiki/Cayenne_(programming_language)
+cduce	https://en.wikipedia.org/wiki/CDuce
+cecil	https://en.wikipedia.org/wiki/Cecil_(programming_language)
+cesil	https://en.wikipedia.org/wiki/Cesil
+céu	https://en.wikipedia.org/wiki/C%C3%A9u_(programming_language)
+ceylon	https://en.wikipedia.org/wiki/Ceylon_(programming_language)
+cfengine	https://en.wikipedia.org/wiki/CFEngine
+cg	https://en.wikipedia.org/wiki/Cg_(programming_language)
+ch	https://en.wikipedia.org/wiki/Ch_(computer_programming)
+chapel	https://en.wikipedia.org/wiki/Chapel_(programming_language)
+charm	https://en.wikipedia.org/wiki/Charm_(language)
+chill	https://en.wikipedia.org/wiki/CHILL
+chip-8	https://en.wikipedia.org/wiki/CHIP-8
 chomski	https://en.wikipedia.org/wiki/Chomski
-ChucK	https://en.wikipedia.org/wiki/ChucK
-Cilk	https://en.wikipedia.org/wiki/Cilk
-CL	https://en.wikipedia.org/wiki/AS/400_Control_Language
-Claire	https://en.wikipedia.org/wiki/Claire_(programming_language)
-Clarion	https://en.wikipedia.org/wiki/Clarion_(programming_language)
-Clean	https://en.wikipedia.org/wiki/Clean_(programming_language)
-Clipper	https://en.wikipedia.org/wiki/Clipper_(programming_language)
-CLIPS	https://en.wikipedia.org/wiki/CLIPS_(programming_language)
-CLIST	https://en.wikipedia.org/wiki/CLIST
-Clojure	https://en.wikipedia.org/wiki/Clojure
-CLU	https://en.wikipedia.org/wiki/CLU_(programming_language)
-CMS-2	https://en.wikipedia.org/wiki/CMS-2_(programming_language)
-COBOL	https://en.wikipedia.org/wiki/COBOL
-CobolScript	https://en.wikipedia.org/wiki/CobolScript
-Cobra	https://en.wikipedia.org/wiki/Cobra_(programming_language)
-CoffeeScript	https://en.wikipedia.org/wiki/CoffeeScript
-ColdFusion	https://en.wikipedia.org/wiki/ColdFusion
-COMAL	https://en.wikipedia.org/wiki/COMAL
-Combined Programming Language	https://en.wikipedia.org/wiki/Combined_Programming_Language
-COMIT	https://en.wikipedia.org/wiki/COMIT
-Common Intermediate Language	https://en.wikipedia.org/wiki/Common_Intermediate_Language
-Common Lisp	https://en.wikipedia.org/wiki/Common_Lisp
-COMPASS	https://en.wikipedia.org/wiki/COMPASS
-Component Pascal	https://en.wikipedia.org/wiki/Component_Pascal
-Constraint Handling Rules	https://en.wikipedia.org/wiki/Constraint_Handling_Rules
-COMTRAN	https://en.wikipedia.org/wiki/COMTRAN
-Cool	https://en.wikipedia.org/wiki/Cool_(programming_language)
-Coq	https://en.wikipedia.org/wiki/Coq
-Coral 66	https://en.wikipedia.org/wiki/Coral_66
-CorVision	https://en.wikipedia.org/wiki/CorVision
-COWSEL	https://en.wikipedia.org/wiki/COWSEL
-CPL	https://en.wikipedia.org/wiki/CPL_(programming_language)
-Cryptol	https://en.wikipedia.org/wiki/Cryptol
-Crystal	https://en.wikipedia.org/wiki/Crystal_(programming_language)
-Csound	https://en.wikipedia.org/wiki/Csound
-Cuneiform	https://en.wikipedia.org/wiki/Cuneiform_(programming_language)
-Curl	https://en.wikipedia.org/wiki/Curl_(programming_language)
-Curry	https://en.wikipedia.org/wiki/Curry_(programming_language)
-Cybil	https://en.wikipedia.org/wiki/Cybil_(programming_language)
-Cyclone	https://en.wikipedia.org/wiki/Cyclone_(programming_language)
-Cypher Query Language	https://en.wikipedia.org/wiki/Cypher_Query_Language
-Cython	https://en.wikipedia.org/wiki/Cython
-CEEMAC	https://en.wikipedia.org/wiki/CEEMAC
-D	https://en.wikipedia.org/wiki/D_(programming_language)
-Dart	https://en.wikipedia.org/wiki/Dart_(programming_language)
-Darwin	https://en.wikipedia.org/wiki/Darwin_(programming_language)
-DataFlex	https://en.wikipedia.org/wiki/DataFlex
-Datalog	https://en.wikipedia.org/wiki/Datalog
-DATATRIEVE	https://en.wikipedia.org/wiki/DATATRIEVE
-dBase	https://en.wikipedia.org/wiki/DBase
+chuck	https://en.wikipedia.org/wiki/ChucK
+cilk	https://en.wikipedia.org/wiki/Cilk
+cl	https://en.wikipedia.org/wiki/AS/400_Control_Language
+claire	https://en.wikipedia.org/wiki/Claire_(programming_language)
+clarion	https://en.wikipedia.org/wiki/Clarion_(programming_language)
+clean	https://en.wikipedia.org/wiki/Clean_(programming_language)
+clipper	https://en.wikipedia.org/wiki/Clipper_(programming_language)
+clips	https://en.wikipedia.org/wiki/CLIPS_(programming_language)
+clist	https://en.wikipedia.org/wiki/CLIST
+clojure	https://en.wikipedia.org/wiki/Clojure
+clu	https://en.wikipedia.org/wiki/CLU_(programming_language)
+cms-2	https://en.wikipedia.org/wiki/CMS-2_(programming_language)
+cobol	https://en.wikipedia.org/wiki/COBOL
+cobolscript	https://en.wikipedia.org/wiki/CobolScript
+cobra	https://en.wikipedia.org/wiki/Cobra_(programming_language)
+coffeescript	https://en.wikipedia.org/wiki/CoffeeScript
+coldfusion	https://en.wikipedia.org/wiki/ColdFusion
+comal	https://en.wikipedia.org/wiki/COMAL
+combined programming language	https://en.wikipedia.org/wiki/Combined_Programming_Language
+comit	https://en.wikipedia.org/wiki/COMIT
+common intermediate language	https://en.wikipedia.org/wiki/Common_Intermediate_Language
+common lisp	https://en.wikipedia.org/wiki/Common_Lisp
+compass	https://en.wikipedia.org/wiki/COMPASS
+component pascal	https://en.wikipedia.org/wiki/Component_Pascal
+constraint handling rules	https://en.wikipedia.org/wiki/Constraint_Handling_Rules
+comtran	https://en.wikipedia.org/wiki/COMTRAN
+cool	https://en.wikipedia.org/wiki/Cool_(programming_language)
+coq	https://en.wikipedia.org/wiki/Coq
+coral 66	https://en.wikipedia.org/wiki/Coral_66
+corvision	https://en.wikipedia.org/wiki/CorVision
+cowsel	https://en.wikipedia.org/wiki/COWSEL
+cpl	https://en.wikipedia.org/wiki/CPL_(programming_language)
+cryptol	https://en.wikipedia.org/wiki/Cryptol
+crystal	https://en.wikipedia.org/wiki/Crystal_(programming_language)
+csound	https://en.wikipedia.org/wiki/Csound
+cuneiform	https://en.wikipedia.org/wiki/Cuneiform_(programming_language)
+curl	https://en.wikipedia.org/wiki/Curl_(programming_language)
+curry	https://en.wikipedia.org/wiki/Curry_(programming_language)
+cybil	https://en.wikipedia.org/wiki/Cybil_(programming_language)
+cyclone	https://en.wikipedia.org/wiki/Cyclone_(programming_language)
+cypher query language	https://en.wikipedia.org/wiki/Cypher_Query_Language
+cython	https://en.wikipedia.org/wiki/Cython
+ceemac	https://en.wikipedia.org/wiki/CEEMAC
+d	https://en.wikipedia.org/wiki/D_(programming_language)
+dart	https://en.wikipedia.org/wiki/Dart_(programming_language)
+darwin	https://en.wikipedia.org/wiki/Darwin_(programming_language)
+dataflex	https://en.wikipedia.org/wiki/DataFlex
+datalog	https://en.wikipedia.org/wiki/Datalog
+datatrieve	https://en.wikipedia.org/wiki/DATATRIEVE
+dbase	https://en.wikipedia.org/wiki/DBase
 dc	https://en.wikipedia.org/wiki/Dc_(computer_program)
-DCL	https://en.wikipedia.org/wiki/DIGITAL_Command_Language
-Delphi	https://en.wikipedia.org/wiki/Delphi_(software)
-DinkC	https://en.wikipedia.org/wiki/Dink_Smallwood
-DIBOL	https://en.wikipedia.org/wiki/DIBOL
-Dog	https://en.wikipedia.org/wiki/Dog_(programming_language)
-Draco	https://en.wikipedia.org/wiki/Draco_(programming_language)
-DRAKON	https://en.wikipedia.org/wiki/DRAKON
-Dylan	https://en.wikipedia.org/wiki/Dylan_(programming_language)
-DYNAMO	https://en.wikipedia.org/wiki/DYNAMO_(programming_language)
-DAX (Data Analysis Expressions)	https://en.wikipedia.org/wiki/Data_analysis_expressions
-E	https://en.wikipedia.org/wiki/E_(programming_language)
-Ease	https://en.wikipedia.org/wiki/Ease_(programming_language)
-Easy PL/I	https://en.wikipedia.org/wiki/PL/I
-EASYTRIEVE PLUS	https://en.wikipedia.org/wiki/Easytrieve
-eC	https://en.wikipedia.org/wiki/EC_(programming_language)
-ECMAScript	https://en.wikipedia.org/wiki/ECMAScript
-Edinburgh IMP	https://en.wikipedia.org/wiki/Edinburgh_IMP
-EGL	https://en.wikipedia.org/wiki/EGL_(programming_language)
-Eiffel	https://en.wikipedia.org/wiki/Eiffel_(programming_language)
-ELAN	https://en.wikipedia.org/wiki/ELAN_(programming_language)
-Elixir	https://en.wikipedia.org/wiki/Elixir_(programming_language)
-Elm	https://en.wikipedia.org/wiki/Elm_(programming_language)
-Emacs Lisp	https://en.wikipedia.org/wiki/Emacs_Lisp
-Emerald	https://en.wikipedia.org/wiki/Emerald_(programming_language)
-Epigram	https://en.wikipedia.org/wiki/Epigram_(programming_language)
-EPL (Easy Programming Language)	https://en.wikipedia.org/wiki/Easy_Programming_Language
-EPL (Eltron Programming Language)	https://en.wikipedia.org/wiki/Eltron_Programming_Language
-Erlang	https://en.wikipedia.org/wiki/Erlang_(programming_language)
+dcl	https://en.wikipedia.org/wiki/DIGITAL_Command_Language
+delphi	https://en.wikipedia.org/wiki/Delphi_(software)
+dinkc	https://en.wikipedia.org/wiki/Dink_Smallwood
+dibol	https://en.wikipedia.org/wiki/DIBOL
+dog	https://en.wikipedia.org/wiki/Dog_(programming_language)
+draco	https://en.wikipedia.org/wiki/Draco_(programming_language)
+drakon	https://en.wikipedia.org/wiki/DRAKON
+dylan	https://en.wikipedia.org/wiki/Dylan_(programming_language)
+dynamo	https://en.wikipedia.org/wiki/DYNAMO_(programming_language)
+dax	https://en.wikipedia.org/wiki/Data_analysis_expressions
+e	https://en.wikipedia.org/wiki/E_(programming_language)
+ease	https://en.wikipedia.org/wiki/Ease_(programming_language)
+easy pl/i	https://en.wikipedia.org/wiki/PL/I
+easytrieve plus	https://en.wikipedia.org/wiki/Easytrieve
+ec	https://en.wikipedia.org/wiki/EC_(programming_language)
+ecmascript	https://en.wikipedia.org/wiki/ECMAScript
+edinburgh imp	https://en.wikipedia.org/wiki/Edinburgh_IMP
+egl	https://en.wikipedia.org/wiki/EGL_(programming_language)
+eiffel	https://en.wikipedia.org/wiki/Eiffel_(programming_language)
+elan	https://en.wikipedia.org/wiki/ELAN_(programming_language)
+elixir	https://en.wikipedia.org/wiki/Elixir_(programming_language)
+elm	https://en.wikipedia.org/wiki/Elm_(programming_language)
+emacs lisp	https://en.wikipedia.org/wiki/Emacs_Lisp
+emerald	https://en.wikipedia.org/wiki/Emerald_(programming_language)
+epigram	https://en.wikipedia.org/wiki/Epigram_(programming_language)
+epl	https://en.wikipedia.org/wiki/Easy_Programming_Language
+epl	https://en.wikipedia.org/wiki/Eltron_Programming_Language
+erlang	https://en.wikipedia.org/wiki/Erlang_(programming_language)
 es	https://en.wikipedia.org/wiki/Es_(Unix_shell)
-Escher	https://en.wikipedia.org/wiki/Escher_(programming_language)
-ESPOL	https://en.wikipedia.org/wiki/Executive_Systems_Problem_Oriented_Language
-Esterel	https://en.wikipedia.org/wiki/Esterel
-Etoys	https://en.wikipedia.org/wiki/Etoys_(programming_language)
-Euclid	https://en.wikipedia.org/wiki/Euclid_(programming_language)
-Euler	https://en.wikipedia.org/wiki/Euler_(programming_language)
-Euphoria	https://en.wikipedia.org/wiki/Euphoria_(programming_language)
-EusLisp Robot Programming Language	https://en.wikipedia.org/wiki/EusLisp_Robot_Programming_Language
-CMS EXEC	https://en.wikipedia.org/wiki/CMS_EXEC
-EXEC 2	https://en.wikipedia.org/wiki/EXEC_2
-Executable UML	https://en.wikipedia.org/wiki/Executable_UML
-Ezhil	https://en.wikipedia.org/wiki/Ezhil_(programming_language)
-F	https://en.wikipedia.org/wiki/F_(programming_language)
-F#	https://en.wikipedia.org/wiki/F_Sharp_(programming_language)
-F*	https://en.wikipedia.org/wiki/F*_(programming_language)
-Factor	https://en.wikipedia.org/wiki/Factor_(programming_language)
-Fantom	https://en.wikipedia.org/wiki/Fantom_(programming_language)
-FAUST	https://en.wikipedia.org/wiki/FAUST_(programming_language)
-FFP	https://en.wikipedia.org/wiki/FFP_(programming_language)
+escher	https://en.wikipedia.org/wiki/Escher_(programming_language)
+espol	https://en.wikipedia.org/wiki/Executive_Systems_Problem_Oriented_Language
+esterel	https://en.wikipedia.org/wiki/Esterel
+etoys	https://en.wikipedia.org/wiki/Etoys_(programming_language)
+euclid	https://en.wikipedia.org/wiki/Euclid_(programming_language)
+euler	https://en.wikipedia.org/wiki/Euler_(programming_language)
+euphoria	https://en.wikipedia.org/wiki/Euphoria_(programming_language)
+euslisp robot programming language	https://en.wikipedia.org/wiki/EusLisp_Robot_Programming_Language
+cms exec	https://en.wikipedia.org/wiki/CMS_EXEC
+exec 2	https://en.wikipedia.org/wiki/EXEC_2
+executable uml	https://en.wikipedia.org/wiki/Executable_UML
+ezhil	https://en.wikipedia.org/wiki/Ezhil_(programming_language)
+f	https://en.wikipedia.org/wiki/F_(programming_language)
+f#	https://en.wikipedia.org/wiki/F_Sharp_(programming_language)
+f*	https://en.wikipedia.org/wiki/F*_(programming_language)
+factor	https://en.wikipedia.org/wiki/Factor_(programming_language)
+fantom	https://en.wikipedia.org/wiki/Fantom_(programming_language)
+faust	https://en.wikipedia.org/wiki/FAUST_(programming_language)
+ffp	https://en.wikipedia.org/wiki/FFP_(programming_language)
 fish	https://en.wikipedia.org/wiki/Friendly_interactive_shell
-Fjölnir	https://en.wikipedia.org/wiki/Fj%C3%B6lnir_(programming_language)
-FL	https://en.wikipedia.org/wiki/FL_(programming_language)
-Flavors	https://en.wikipedia.org/wiki/Flavors_(programming_language)
-Flex	https://en.wikipedia.org/wiki/Flex_(language)
-Flix	https://en.wikipedia.org/wiki/Flix_(programming_language)
-FlooP	https://en.wikipedia.org/wiki/BlooP_and_FlooP
-FLOW-MATIC	https://en.wikipedia.org/wiki/FLOW-MATIC
-FOCAL	https://en.wikipedia.org/wiki/FOCAL_(programming_language)
-FOCUS	https://en.wikipedia.org/wiki/FOCUS
-FOIL	https://en.wikipedia.org/wiki/FOIL_(programming_language)
-FORMAC	https://en.wikipedia.org/wiki/FORMAC_(programming_language)
-@Formula	https://en.wikipedia.org/wiki/Formula_language
-Forth	https://en.wikipedia.org/wiki/Forth_(programming_language)
-Fortran	https://en.wikipedia.org/wiki/Fortran
-Fortress	https://en.wikipedia.org/wiki/Fortress_(programming_language)
-FP	https://en.wikipedia.org/wiki/FP_(programming_language)
-Franz Lisp	https://en.wikipedia.org/wiki/Franz_Lisp
-Futhark	https://en.wikipedia.org/wiki/Futhark_(programming_language)
-F-Script	https://en.wikipedia.org/wiki/F-Script_(programming_language)
-Game Maker Language	https://en.wikipedia.org/wiki/Game_Maker_Language
-Scripting language	https://en.wikipedia.org/wiki/Scripting_language
-GameMonkey Script	https://en.wikipedia.org/wiki/GameMonkey_Script
-GAMS	https://en.wikipedia.org/wiki/General_Algebraic_Modeling_System
-GAP	https://en.wikipedia.org/wiki/GAP_computer_algebra_system
-G-code	https://en.wikipedia.org/wiki/G-code
-GDScript	https://en.wikipedia.org/wiki/GDScript
-Genie	https://en.wikipedia.org/wiki/Genie_(programming_language)
-GDL	https://en.wikipedia.org/wiki/Geometric_Description_Language
-GEORGE	https://en.wikipedia.org/wiki/GEORGE_(programming_language)
-GLSL	https://en.wikipedia.org/wiki/GLSL
-GNU E	https://en.wikipedia.org/wiki/GNU_E
-GNU Guile	https://en.wikipedia.org/wiki/GNU_Guile
-Go	https://en.wikipedia.org/wiki/Go_(programming_language)
-Go!	https://en.wikipedia.org/wiki/Go!_(programming_language)
-GOAL	https://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp
-Gödel	https://en.wikipedia.org/wiki/G%C3%B6del_(programming_language)
-Golo	https://en.wikipedia.org/wiki/Golo_(programming_language)
-GOM (Good Old Mad)	https://en.wikipedia.org/wiki/MAD_(programming_language)
-Google Apps Script	https://en.wikipedia.org/wiki/Google_Apps_Script
-Gosu	https://en.wikipedia.org/wiki/Gosu_(programming_language)
-GOTRAN	https://en.wikipedia.org/wiki/IBM_1620
-GPSS	https://en.wikipedia.org/wiki/GPSS
-GraphTalk	https://en.wikipedia.org/wiki/Computer_Sciences_Corporation
-GRASS	https://en.wikipedia.org/wiki/GRASS_(programming_language)
-Grasshopper	https://en.wikipedia.org/wiki/Grasshopper_3D
-Groovy	https://en.wikipedia.org/wiki/Groovy_(programming_language)
-Hack	https://en.wikipedia.org/wiki/Hack_(programming_language)
-HAGGIS	https://en.wikipedia.org/wiki/HAGGIS
-HAL/S	https://en.wikipedia.org/wiki/HAL/S
-Halide (programming language)	https://en.wikipedia.org/wiki/Halide_(programming_language)
-Hamilton C shell	https://en.wikipedia.org/wiki/Hamilton_C_shell
-Harbour	https://en.wikipedia.org/wiki/Harbour_(software)
-Hartmann pipelines	https://en.wikipedia.org/wiki/Hartmann_pipeline
-Haskell	https://en.wikipedia.org/wiki/Haskell_(programming_language)
-Haxe	https://en.wikipedia.org/wiki/Haxe
-Hermes	https://en.wikipedia.org/wiki/Hermes_(programming_language)
-High Level Assembly	https://en.wikipedia.org/wiki/High_Level_Assembly
-HLSL	https://en.wikipedia.org/wiki/High_Level_Shader_Language
-Hollywood	https://en.wikipedia.org/wiki/Hollywood_(programming_language)
-HolyC	https://en.wikipedia.org/wiki/TempleOS
-Hop	https://en.wikipedia.org/wiki/Hop_(software)
-Hopscotch	https://en.wikipedia.org/wiki/Hopscotch_(programming_language)
-Hope	https://en.wikipedia.org/wiki/Hope_(programming_language)
-Hugo	https://en.wikipedia.org/wiki/Hugo_(programming_language)
-Hume	https://en.wikipedia.org/wiki/Hume_(language)
-HyperTalk	https://en.wikipedia.org/wiki/HyperTalk
-Io	https://en.wikipedia.org/wiki/Io_(programming_language)
-Icon	https://en.wikipedia.org/wiki/Icon_(programming_language)
-IBM Basic assembly language	https://en.wikipedia.org/wiki/IBM_Basic_assembly_language
-IBM HAScript	https://en.wikipedia.org/wiki/IBM_HAScript
-IBM Informix-4GL	https://en.wikipedia.org/wiki/IBM_Informix-4GL
-IBM RPG	https://en.wikipedia.org/wiki/IBM_RPG
-IDL	https://en.wikipedia.org/wiki/IDL_(programming_language)
-Idris	https://en.wikipedia.org/wiki/Idris_(programming_language)
-Inform	https://en.wikipedia.org/wiki/Inform_(programming_language)
-J	https://en.wikipedia.org/wiki/J_(programming_language)
-J#	https://en.wikipedia.org/wiki/J_Sharp
-J++	https://en.wikipedia.org/wiki/Visual_J%2B%2B
-JADE	https://en.wikipedia.org/wiki/JADE_(programming_language)
-Jai	https://en.wikipedia.org/wiki/Jai_(programming_language)
-JAL	https://en.wikipedia.org/wiki/JAL_(compiler)
-Janus (concurrent constraint programming language)	https://en.wikipedia.org/wiki/Janus_(concurrent_constraint_programming_language)
-Janus (time-reversible computing programming language)	https://en.wikipedia.org/wiki/Janus_(time-reversible_computing_programming_language)
-JASS	https://en.wikipedia.org/wiki/JASS_(scripting_language)
-Java	https://en.wikipedia.org/wiki/Java_(programming_language)
-JavaFX Script	https://en.wikipedia.org/wiki/JavaFX_Script
-JavaScript	https://en.wikipedia.org/wiki/JavaScript
-Jess (programming language)	https://en.wikipedia.org/wiki/Jess_(programming_language)
-JCL	https://en.wikipedia.org/wiki/Job_Control_Language
-JEAN	https://en.wikipedia.org/wiki/JEAN
-Join Java	https://en.wikipedia.org/wiki/Join_Java
-JOSS	https://en.wikipedia.org/wiki/JOSS
-Joule	https://en.wikipedia.org/wiki/Joule_(programming_language)
-JOVIAL	https://en.wikipedia.org/wiki/JOVIAL
-Joy	https://en.wikipedia.org/wiki/Joy_(programming_language)
-JScript	https://en.wikipedia.org/wiki/JScript
-JScript .NET	https://en.wikipedia.org/wiki/JScript_.NET
-Julia	https://en.wikipedia.org/wiki/Julia_(programming_language)
-Jython	https://en.wikipedia.org/wiki/Jython
-K	https://en.wikipedia.org/wiki/K_(programming_language)
-Kaleidoscope	https://en.wikipedia.org/wiki/Kaleidoscope_(programming_language)
-Karel	https://en.wikipedia.org/wiki/Karel_(programming_language)
-KEE	https://en.wikipedia.org/wiki/IntelliCorp_(Software)
-Kixtart	https://en.wikipedia.org/wiki/KiXtart
-Klerer-May System	https://en.wikipedia.org/wiki/Klerer-May_System
-KIF	https://en.wikipedia.org/wiki/Knowledge_Interchange_Format
-Kojo	https://en.wikipedia.org/wiki/Kojo_(programming_language)
-Kotlin	https://en.wikipedia.org/wiki/Kotlin_(programming_language)
-KRC	https://en.wikipedia.org/wiki/Kent_Recursive_Calculator
-KRL	https://en.wikipedia.org/wiki/KRL_(programming_language)
-KUKA Robot Language	https://en.wikipedia.org/wiki/KUKA_Robot_Language
-KRYPTON	https://en.wikipedia.org/wiki/KRYPTON
-KornShell (ksh)	https://en.wikipedia.org/wiki/KornShell
-Kodu	https://en.wikipedia.org/wiki/Kodu_Game_Lab
-Kv	https://en.wikipedia.org/wiki/Kivy_(framework)
-LabVIEW	https://en.wikipedia.org/wiki/LabVIEW
-Ladder	https://en.wikipedia.org/wiki/Ladder_logic
-LANSA	https://en.wikipedia.org/wiki/LANSA_(development_environment)
-Lasso	https://en.wikipedia.org/wiki/Lasso_(programming_language)
-Lava	https://en.wikipedia.org/wiki/Lava_(programming_language)
-LC-3	https://en.wikipedia.org/wiki/Little_Computer_3
-Lean	https://en.wikipedia.org/wiki/Lean_(proof_assistant)
-Legoscript	https://en.wikipedia.org/wiki/Legoscript
-LIL	https://en.wikipedia.org/wiki/Little_Implementation_Language
-LilyPond	https://en.wikipedia.org/wiki/LilyPond
-Limbo	https://en.wikipedia.org/wiki/Limbo_(programming_language)
-Limnor	https://en.wikipedia.org/wiki/Limnor
-LINC	https://en.wikipedia.org/wiki/LINC_4GL
-Lingo	https://en.wikipedia.org/wiki/Lingo_(programming_language)
-LINQ	https://en.wikipedia.org/wiki/LINQ
-LIS	https://en.wikipedia.org/wiki/LIS_(programming_language)
-LISA	https://en.wikipedia.org/wiki/Language_for_Instruction_Set_Architecture
-Language H	https://en.wikipedia.org/wiki/Language_H
-Lisp	https://en.wikipedia.org/wiki/Lisp_(programming_language)
-Lite-C	https://en.wikipedia.org/wiki/Lite-C
-Lithe	https://en.wikipedia.org/wiki/Lithe_(programming_language)
-Little b	https://en.wikipedia.org/wiki/Little_b_(programming_language)
-LLL	https://en.wikipedia.org/wiki/Ethereum
-Logo	https://en.wikipedia.org/wiki/Logo_(programming_language)
-Logtalk	https://en.wikipedia.org/wiki/Logtalk
-LotusScript	https://en.wikipedia.org/wiki/LotusScript
-LPC	https://en.wikipedia.org/wiki/LPC_(programming_language)
-LSE	https://en.wikipedia.org/wiki/LSE_(programming_language)
-LSL	https://en.wikipedia.org/wiki/Linden_Scripting_Language
-LiveCode	https://en.wikipedia.org/wiki/LiveCode
-LiveScript	https://en.wikipedia.org/wiki/LiveScript
-Lua	https://en.wikipedia.org/wiki/Lua_(programming_language)
-Lucid	https://en.wikipedia.org/wiki/Lucid_(programming_language)
-Lustre	https://en.wikipedia.org/wiki/Lustre_(programming_language)
-LYaPAS	https://en.wikipedia.org/wiki/LYaPAS
-Lynx	https://en.wikipedia.org/wiki/Lynx_(programming_language)
-M2001	https://en.wikipedia.org/wiki/M2001
-M4	https://en.wikipedia.org/wiki/M4_(computer_language)
-M#	https://en.wikipedia.org/wiki/M_Sharp_(programming_language)
-Machine code	https://en.wikipedia.org/wiki/Machine_code
-MAD	https://en.wikipedia.org/wiki/MAD_(programming_language)
-MAD/I	https://en.wikipedia.org/wiki/MAD_(programming_language)
-Magik	https://en.wikipedia.org/wiki/Magik_(programming_language)
-Magma	https://en.wikipedia.org/wiki/Magma_computer_algebra_system
-Máni	https://en.wikipedia.org/wiki/M%C3%A1ni
-Maple	https://en.wikipedia.org/wiki/Maple_(software)
-MAPPER	https://en.wikipedia.org/wiki/MAPPER
-MARK-IV	https://en.wikipedia.org/wiki/MARK_IV_(software)
-Mary	https://en.wikipedia.org/wiki/Mary_(programming_language)
-MATLAB	https://en.wikipedia.org/wiki/MATLAB
-MASM Microsoft Assembly x86	https://en.wikipedia.org/wiki/Microsoft_Macro_Assembler
-MATH-MATIC	https://en.wikipedia.org/wiki/MATH-MATIC
-Maude system	https://en.wikipedia.org/wiki/Maude_system
-Maxima	https://en.wikipedia.org/wiki/Maxima_(software)
-Macsyma	https://en.wikipedia.org/wiki/Macsyma
-Max	https://en.wikipedia.org/wiki/Max_(software)
-MaxScript	https://en.wikipedia.org/wiki/Autodesk_3ds_Max
-Maya (MEL)	https://en.wikipedia.org/wiki/Maya_Embedded_Language
-MDL	https://en.wikipedia.org/wiki/MDL_(programming_language)
-Mercury	https://en.wikipedia.org/wiki/Mercury_(programming_language)
-Mesa	https://en.wikipedia.org/wiki/Mesa_(programming_language)
-MHEG-5 (Interactive TV programming language)	https://en.wikipedia.org/wiki/MHEG-5
-Microcode	https://en.wikipedia.org/wiki/Microassembler
-MicroScript	https://en.wikipedia.org/wiki/MicroScript_(programming_language)
-MIIS	https://en.wikipedia.org/wiki/MIIS_(programming_language)
-Milk (programming language)	https://en.wikipedia.org/wiki/Milk_(programming_language)
-MIMIC	https://en.wikipedia.org/wiki/MIMIC
-Mirah	https://en.wikipedia.org/wiki/Mirah_(programming_language)
-Miranda	https://en.wikipedia.org/wiki/Miranda_(programming_language)
-MIVA Script	https://en.wikipedia.org/wiki/MIVA_Script
-ML	https://en.wikipedia.org/wiki/ML_(programming_language)
-Model 204	https://en.wikipedia.org/wiki/Model_204
-Modelica	https://en.wikipedia.org/wiki/Modelica
-Modula	https://en.wikipedia.org/wiki/Modula
-Modula-2	https://en.wikipedia.org/wiki/Modula-2
-Modula-3	https://en.wikipedia.org/wiki/Modula-3
-Mohol	https://en.wikipedia.org/wiki/Mohol_programming_languages
-MOO	https://en.wikipedia.org/wiki/MOO_(programming_language)
-Mortran	https://en.wikipedia.org/wiki/Mortran
-Mouse	https://en.wikipedia.org/wiki/Mouse_(programming_language)
-MPD	https://en.wikipedia.org/wiki/MPD_(programming_language)
-MSL	https://en.wikipedia.org/wiki/MIRC_scripting_language
-MUMPS	https://en.wikipedia.org/wiki/MUMPS
-MuPAD	https://en.wikipedia.org/wiki/MuPAD
-Mutan	https://en.wikipedia.org/wiki/Ethereum
-Mystic Programming Language	https://en.wikipedia.org/wiki/Mystic_BBS
-NASM	https://en.wikipedia.org/wiki/Netwide_Assembler
-Napier88	https://en.wikipedia.org/wiki/Napier88
-Neko	https://en.wikipedia.org/wiki/Neko_(programming_language)
-Nemerle	https://en.wikipedia.org/wiki/Nemerle
-NESL	https://en.wikipedia.org/wiki/NESL
-Net.Data	https://en.wikipedia.org/wiki/Net.Data
-NetLogo	https://en.wikipedia.org/wiki/NetLogo
-NetRexx	https://en.wikipedia.org/wiki/NetRexx
-NewLISP	https://en.wikipedia.org/wiki/NewLISP
-NEWP	https://en.wikipedia.org/wiki/NEWP
-Newspeak	https://en.wikipedia.org/wiki/Newspeak_(programming_language)
-NewtonScript	https://en.wikipedia.org/wiki/NewtonScript
-Nial	https://en.wikipedia.org/wiki/Nial
-Nickle	https://en.wikipedia.org/wiki/Nickle_(programming_language)
-NITIN	https://en.wikipedia.org/wiki/Nickle_(programming_language)
-Nim	https://en.wikipedia.org/wiki/Nim_(programming_language)
-Nix (Systems configuration language)	https://en.wikipedia.org/wiki/Nix_package_manager
-NPL	https://en.wikipedia.org/wiki/NORD_Programming_Language
-Not eXactly C	https://en.wikipedia.org/wiki/Not_eXactly_C
-Not Quite C	https://en.wikipedia.org/wiki/Not_Quite_C
-NSIS	https://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System
-Nu	https://en.wikipedia.org/wiki/Nu_(programming_language)
-NWScript	https://en.wikipedia.org/wiki/NWScript
-NXT-G	https://en.wikipedia.org/wiki/NXT-G
-o:XML	https://en.wikipedia.org/wiki/O:XML
-Oak	https://en.wikipedia.org/wiki/Oak_(programming_language)
-Oberon	https://en.wikipedia.org/wiki/Oberon_(programming_language)
-OBJ2	https://en.wikipedia.org/wiki/OBJ2
-Object Lisp	https://en.wikipedia.org/wiki/Object_Lisp
-ObjectLOGO	https://en.wikipedia.org/wiki/ObjectLOGO
-Object REXX	https://en.wikipedia.org/wiki/Object_REXX
-Object Pascal	https://en.wikipedia.org/wiki/Object_Pascal
-Objective-C	https://en.wikipedia.org/wiki/Objective-C
-Objective-J	https://en.wikipedia.org/wiki/Objective-J
-Obliq	https://en.wikipedia.org/wiki/Obliq
-OCaml	https://en.wikipedia.org/wiki/OCaml
+fjölnir	https://en.wikipedia.org/wiki/Fj%C3%B6lnir_(programming_language)
+fl	https://en.wikipedia.org/wiki/FL_(programming_language)
+flavors	https://en.wikipedia.org/wiki/Flavors_(programming_language)
+flex	https://en.wikipedia.org/wiki/Flex_(language)
+flix	https://en.wikipedia.org/wiki/Flix_(programming_language)
+floop	https://en.wikipedia.org/wiki/BlooP_and_FlooP
+flow-matic	https://en.wikipedia.org/wiki/FLOW-MATIC
+focal	https://en.wikipedia.org/wiki/FOCAL_(programming_language)
+focus	https://en.wikipedia.org/wiki/FOCUS
+foil	https://en.wikipedia.org/wiki/FOIL_(programming_language)
+formac	https://en.wikipedia.org/wiki/FORMAC_(programming_language)
+@formula	https://en.wikipedia.org/wiki/Formula_language
+forth	https://en.wikipedia.org/wiki/Forth_(programming_language)
+fortran	https://en.wikipedia.org/wiki/Fortran
+fortress	https://en.wikipedia.org/wiki/Fortress_(programming_language)
+fp	https://en.wikipedia.org/wiki/FP_(programming_language)
+franz lisp	https://en.wikipedia.org/wiki/Franz_Lisp
+futhark	https://en.wikipedia.org/wiki/Futhark_(programming_language)
+f-script	https://en.wikipedia.org/wiki/F-Script_(programming_language)
+game maker language	https://en.wikipedia.org/wiki/Game_Maker_Language
+scripting language	https://en.wikipedia.org/wiki/Scripting_language
+gamemonkey script	https://en.wikipedia.org/wiki/GameMonkey_Script
+gams	https://en.wikipedia.org/wiki/General_Algebraic_Modeling_System
+gap	https://en.wikipedia.org/wiki/GAP_computer_algebra_system
+g-code	https://en.wikipedia.org/wiki/G-code
+gdscript	https://en.wikipedia.org/wiki/GDScript
+genie	https://en.wikipedia.org/wiki/Genie_(programming_language)
+gdl	https://en.wikipedia.org/wiki/Geometric_Description_Language
+george	https://en.wikipedia.org/wiki/GEORGE_(programming_language)
+glsl	https://en.wikipedia.org/wiki/GLSL
+gnu e	https://en.wikipedia.org/wiki/GNU_E
+gnu guile	https://en.wikipedia.org/wiki/GNU_Guile
+go	https://en.wikipedia.org/wiki/Go_(programming_language)
+go!	https://en.wikipedia.org/wiki/Go!_(programming_language)
+goal	https://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp
+gödel	https://en.wikipedia.org/wiki/G%C3%B6del_(programming_language)
+golo	https://en.wikipedia.org/wiki/Golo_(programming_language)
+gom	https://en.wikipedia.org/wiki/MAD_(programming_language)
+google apps script	https://en.wikipedia.org/wiki/Google_Apps_Script
+gosu	https://en.wikipedia.org/wiki/Gosu_(programming_language)
+gotran	https://en.wikipedia.org/wiki/IBM_1620
+gpss	https://en.wikipedia.org/wiki/GPSS
+graphtalk	https://en.wikipedia.org/wiki/Computer_Sciences_Corporation
+grass	https://en.wikipedia.org/wiki/GRASS_(programming_language)
+grasshopper	https://en.wikipedia.org/wiki/Grasshopper_3D
+groovy	https://en.wikipedia.org/wiki/Groovy_(programming_language)
+hack	https://en.wikipedia.org/wiki/Hack_(programming_language)
+haggis	https://en.wikipedia.org/wiki/HAGGIS
+hal/s	https://en.wikipedia.org/wiki/HAL/S
+halide	https://en.wikipedia.org/wiki/Halide_(programming_language)
+hamilton c shell	https://en.wikipedia.org/wiki/Hamilton_C_shell
+harbour	https://en.wikipedia.org/wiki/Harbour_(software)
+hartmann pipelines	https://en.wikipedia.org/wiki/Hartmann_pipeline
+haskell	https://en.wikipedia.org/wiki/Haskell_(programming_language)
+haxe	https://en.wikipedia.org/wiki/Haxe
+hermes	https://en.wikipedia.org/wiki/Hermes_(programming_language)
+high level assembly	https://en.wikipedia.org/wiki/High_Level_Assembly
+hlsl	https://en.wikipedia.org/wiki/High_Level_Shader_Language
+hollywood	https://en.wikipedia.org/wiki/Hollywood_(programming_language)
+holyc	https://en.wikipedia.org/wiki/TempleOS
+hop	https://en.wikipedia.org/wiki/Hop_(software)
+hopscotch	https://en.wikipedia.org/wiki/Hopscotch_(programming_language)
+hope	https://en.wikipedia.org/wiki/Hope_(programming_language)
+hugo	https://en.wikipedia.org/wiki/Hugo_(programming_language)
+hume	https://en.wikipedia.org/wiki/Hume_(language)
+hypertalk	https://en.wikipedia.org/wiki/HyperTalk
+io	https://en.wikipedia.org/wiki/Io_(programming_language)
+icon	https://en.wikipedia.org/wiki/Icon_(programming_language)
+ibm basic assembly language	https://en.wikipedia.org/wiki/IBM_Basic_assembly_language
+ibm hascript	https://en.wikipedia.org/wiki/IBM_HAScript
+ibm informix-4gl	https://en.wikipedia.org/wiki/IBM_Informix-4GL
+ibm rpg	https://en.wikipedia.org/wiki/IBM_RPG
+idl	https://en.wikipedia.org/wiki/IDL_(programming_language)
+idris	https://en.wikipedia.org/wiki/Idris_(programming_language)
+inform	https://en.wikipedia.org/wiki/Inform_(programming_language)
+j	https://en.wikipedia.org/wiki/J_(programming_language)
+j#	https://en.wikipedia.org/wiki/J_Sharp
+j++	https://en.wikipedia.org/wiki/Visual_J%2B%2B
+jade	https://en.wikipedia.org/wiki/JADE_(programming_language)
+jai	https://en.wikipedia.org/wiki/Jai_(programming_language)
+jal	https://en.wikipedia.org/wiki/JAL_(compiler)
+janus	https://en.wikipedia.org/wiki/Janus_(concurrent_constraint_programming_language)
+janus	https://en.wikipedia.org/wiki/Janus_(time-reversible_computing_programming_language)
+jass	https://en.wikipedia.org/wiki/JASS_(scripting_language)
+java	https://en.wikipedia.org/wiki/Java_(programming_language)
+javafx script	https://en.wikipedia.org/wiki/JavaFX_Script
+javascript	https://en.wikipedia.org/wiki/JavaScript
+jess	https://en.wikipedia.org/wiki/Jess_(programming_language)
+jcl	https://en.wikipedia.org/wiki/Job_Control_Language
+jean	https://en.wikipedia.org/wiki/JEAN
+join java	https://en.wikipedia.org/wiki/Join_Java
+joss	https://en.wikipedia.org/wiki/JOSS
+joule	https://en.wikipedia.org/wiki/Joule_(programming_language)
+jovial	https://en.wikipedia.org/wiki/JOVIAL
+joy	https://en.wikipedia.org/wiki/Joy_(programming_language)
+jscript	https://en.wikipedia.org/wiki/JScript
+jscript .net	https://en.wikipedia.org/wiki/JScript_.NET
+julia	https://en.wikipedia.org/wiki/Julia_(programming_language)
+jython	https://en.wikipedia.org/wiki/Jython
+k	https://en.wikipedia.org/wiki/K_(programming_language)
+kaleidoscope	https://en.wikipedia.org/wiki/Kaleidoscope_(programming_language)
+karel	https://en.wikipedia.org/wiki/Karel_(programming_language)
+kee	https://en.wikipedia.org/wiki/IntelliCorp_(Software)
+kixtart	https://en.wikipedia.org/wiki/KiXtart
+klerer-may system	https://en.wikipedia.org/wiki/Klerer-May_System
+kif	https://en.wikipedia.org/wiki/Knowledge_Interchange_Format
+kojo	https://en.wikipedia.org/wiki/Kojo_(programming_language)
+kotlin	https://en.wikipedia.org/wiki/Kotlin_(programming_language)
+krc	https://en.wikipedia.org/wiki/Kent_Recursive_Calculator
+krl	https://en.wikipedia.org/wiki/KRL_(programming_language)
+kuka robot language	https://en.wikipedia.org/wiki/KUKA_Robot_Language
+krypton	https://en.wikipedia.org/wiki/KRYPTON
+kornshell	https://en.wikipedia.org/wiki/KornShell
+kodu	https://en.wikipedia.org/wiki/Kodu_Game_Lab
+kv	https://en.wikipedia.org/wiki/Kivy_(framework)
+labview	https://en.wikipedia.org/wiki/LabVIEW
+ladder	https://en.wikipedia.org/wiki/Ladder_logic
+lansa	https://en.wikipedia.org/wiki/LANSA_(development_environment)
+lasso	https://en.wikipedia.org/wiki/Lasso_(programming_language)
+lava	https://en.wikipedia.org/wiki/Lava_(programming_language)
+lc-3	https://en.wikipedia.org/wiki/Little_Computer_3
+lean	https://en.wikipedia.org/wiki/Lean_(proof_assistant)
+legoscript	https://en.wikipedia.org/wiki/Legoscript
+lil	https://en.wikipedia.org/wiki/Little_Implementation_Language
+lilypond	https://en.wikipedia.org/wiki/LilyPond
+limbo	https://en.wikipedia.org/wiki/Limbo_(programming_language)
+limnor	https://en.wikipedia.org/wiki/Limnor
+linc	https://en.wikipedia.org/wiki/LINC_4GL
+lingo	https://en.wikipedia.org/wiki/Lingo_(programming_language)
+linq	https://en.wikipedia.org/wiki/LINQ
+lis	https://en.wikipedia.org/wiki/LIS_(programming_language)
+lisa	https://en.wikipedia.org/wiki/Language_for_Instruction_Set_Architecture
+language h	https://en.wikipedia.org/wiki/Language_H
+lisp	https://en.wikipedia.org/wiki/Lisp_(programming_language)
+lite-c	https://en.wikipedia.org/wiki/Lite-C
+lithe	https://en.wikipedia.org/wiki/Lithe_(programming_language)
+little b	https://en.wikipedia.org/wiki/Little_b_(programming_language)
+lll	https://en.wikipedia.org/wiki/Ethereum
+logo	https://en.wikipedia.org/wiki/Logo_(programming_language)
+logtalk	https://en.wikipedia.org/wiki/Logtalk
+lotusscript	https://en.wikipedia.org/wiki/LotusScript
+lpc	https://en.wikipedia.org/wiki/LPC_(programming_language)
+lse	https://en.wikipedia.org/wiki/LSE_(programming_language)
+lsl	https://en.wikipedia.org/wiki/Linden_Scripting_Language
+livecode	https://en.wikipedia.org/wiki/LiveCode
+livescript	https://en.wikipedia.org/wiki/LiveScript
+lua	https://en.wikipedia.org/wiki/Lua_(programming_language)
+lucid	https://en.wikipedia.org/wiki/Lucid_(programming_language)
+lustre	https://en.wikipedia.org/wiki/Lustre_(programming_language)
+lyapas	https://en.wikipedia.org/wiki/LYaPAS
+lynx	https://en.wikipedia.org/wiki/Lynx_(programming_language)
+m2001	https://en.wikipedia.org/wiki/M2001
+m4	https://en.wikipedia.org/wiki/M4_(computer_language)
+m#	https://en.wikipedia.org/wiki/M_Sharp_(programming_language)
+machine code	https://en.wikipedia.org/wiki/Machine_code
+mad	https://en.wikipedia.org/wiki/MAD_(programming_language)
+mad/i	https://en.wikipedia.org/wiki/MAD_(programming_language)
+magik	https://en.wikipedia.org/wiki/Magik_(programming_language)
+magma	https://en.wikipedia.org/wiki/Magma_computer_algebra_system
+máni	https://en.wikipedia.org/wiki/M%C3%A1ni
+maple	https://en.wikipedia.org/wiki/Maple_(software)
+mapper	https://en.wikipedia.org/wiki/MAPPER
+mark-iv	https://en.wikipedia.org/wiki/MARK_IV_(software)
+mary	https://en.wikipedia.org/wiki/Mary_(programming_language)
+matlab	https://en.wikipedia.org/wiki/MATLAB
+masm microsoft assembly x86	https://en.wikipedia.org/wiki/Microsoft_Macro_Assembler
+math-matic	https://en.wikipedia.org/wiki/MATH-MATIC
+maude system	https://en.wikipedia.org/wiki/Maude_system
+maxima	https://en.wikipedia.org/wiki/Maxima_(software)
+macsyma	https://en.wikipedia.org/wiki/Macsyma
+max	https://en.wikipedia.org/wiki/Max_(software)
+maxscript	https://en.wikipedia.org/wiki/Autodesk_3ds_Max
+maya	https://en.wikipedia.org/wiki/Maya_Embedded_Language
+mdl	https://en.wikipedia.org/wiki/MDL_(programming_language)
+mercury	https://en.wikipedia.org/wiki/Mercury_(programming_language)
+mesa	https://en.wikipedia.org/wiki/Mesa_(programming_language)
+mheg-5	https://en.wikipedia.org/wiki/MHEG-5
+microcode	https://en.wikipedia.org/wiki/Microassembler
+microscript	https://en.wikipedia.org/wiki/MicroScript_(programming_language)
+miis	https://en.wikipedia.org/wiki/MIIS_(programming_language)
+milk	https://en.wikipedia.org/wiki/Milk_(programming_language)
+mimic	https://en.wikipedia.org/wiki/MIMIC
+mirah	https://en.wikipedia.org/wiki/Mirah_(programming_language)
+miranda	https://en.wikipedia.org/wiki/Miranda_(programming_language)
+miva script	https://en.wikipedia.org/wiki/MIVA_Script
+ml	https://en.wikipedia.org/wiki/ML_(programming_language)
+model 204	https://en.wikipedia.org/wiki/Model_204
+modelica	https://en.wikipedia.org/wiki/Modelica
+modula	https://en.wikipedia.org/wiki/Modula
+modula-2	https://en.wikipedia.org/wiki/Modula-2
+modula-3	https://en.wikipedia.org/wiki/Modula-3
+mohol	https://en.wikipedia.org/wiki/Mohol_programming_languages
+moo	https://en.wikipedia.org/wiki/MOO_(programming_language)
+mortran	https://en.wikipedia.org/wiki/Mortran
+mouse	https://en.wikipedia.org/wiki/Mouse_(programming_language)
+mpd	https://en.wikipedia.org/wiki/MPD_(programming_language)
+msl	https://en.wikipedia.org/wiki/MIRC_scripting_language
+mumps	https://en.wikipedia.org/wiki/MUMPS
+mupad	https://en.wikipedia.org/wiki/MuPAD
+mutan	https://en.wikipedia.org/wiki/Ethereum
+mystic programming language	https://en.wikipedia.org/wiki/Mystic_BBS
+nasm	https://en.wikipedia.org/wiki/Netwide_Assembler
+napier88	https://en.wikipedia.org/wiki/Napier88
+neko	https://en.wikipedia.org/wiki/Neko_(programming_language)
+nemerle	https://en.wikipedia.org/wiki/Nemerle
+nesl	https://en.wikipedia.org/wiki/NESL
+net.data	https://en.wikipedia.org/wiki/Net.Data
+netlogo	https://en.wikipedia.org/wiki/NetLogo
+netrexx	https://en.wikipedia.org/wiki/NetRexx
+newlisp	https://en.wikipedia.org/wiki/NewLISP
+newp	https://en.wikipedia.org/wiki/NEWP
+newspeak	https://en.wikipedia.org/wiki/Newspeak_(programming_language)
+newtonscript	https://en.wikipedia.org/wiki/NewtonScript
+nial	https://en.wikipedia.org/wiki/Nial
+nickle	https://en.wikipedia.org/wiki/Nickle_(programming_language)
+nitin	https://en.wikipedia.org/wiki/Nickle_(programming_language)
+nim	https://en.wikipedia.org/wiki/Nim_(programming_language)
+nix	https://en.wikipedia.org/wiki/Nix_package_manager
+npl	https://en.wikipedia.org/wiki/NORD_Programming_Language
+not exactly c	https://en.wikipedia.org/wiki/Not_eXactly_C
+not quite c	https://en.wikipedia.org/wiki/Not_Quite_C
+nsis	https://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System
+nu	https://en.wikipedia.org/wiki/Nu_(programming_language)
+nwscript	https://en.wikipedia.org/wiki/NWScript
+nxt-g	https://en.wikipedia.org/wiki/NXT-G
+o:xml	https://en.wikipedia.org/wiki/O:XML
+oak	https://en.wikipedia.org/wiki/Oak_(programming_language)
+oberon	https://en.wikipedia.org/wiki/Oberon_(programming_language)
+obj2	https://en.wikipedia.org/wiki/OBJ2
+object lisp	https://en.wikipedia.org/wiki/Object_Lisp
+objectlogo	https://en.wikipedia.org/wiki/ObjectLOGO
+object rexx	https://en.wikipedia.org/wiki/Object_REXX
+object pascal	https://en.wikipedia.org/wiki/Object_Pascal
+objective-c	https://en.wikipedia.org/wiki/Objective-C
+objective-j	https://en.wikipedia.org/wiki/Objective-J
+obliq	https://en.wikipedia.org/wiki/Obliq
+ocaml	https://en.wikipedia.org/wiki/OCaml
 occam	https://en.wikipedia.org/wiki/Occam_(programming_language)
 occam-π	https://en.wikipedia.org/wiki/Occam-%CF%80
-Octave	https://en.wikipedia.org/wiki/GNU_Octave
-OmniMark	https://en.wikipedia.org/wiki/OmniMark
-Opa	https://en.wikipedia.org/wiki/Opa_(programming_language)
-Opal	https://en.wikipedia.org/wiki/Opal_(programming_language)
-OpenCL	https://en.wikipedia.org/wiki/OpenCL
-OpenEdge ABL	https://en.wikipedia.org/wiki/OpenEdge_Advanced_Business_Language
-OPL	https://en.wikipedia.org/wiki/Open_Programming_Language
-OpenVera	https://en.wikipedia.org/wiki/OpenVera
-OPS5	https://en.wikipedia.org/wiki/OPS5
-OptimJ	https://en.wikipedia.org/wiki/OptimJ
-Orc	https://en.wikipedia.org/wiki/Orc_(programming_language)
-ORCA/Modula-2	https://en.wikipedia.org/wiki/ORCA/Modula-2
-Oriel	https://en.wikipedia.org/wiki/Oriel_(scripting_language)
-Orwell	https://en.wikipedia.org/wiki/Orwell_(programming_language)
-Oxygene	https://en.wikipedia.org/wiki/Oxygene_(programming_language)
-Oz	https://en.wikipedia.org/wiki/Oz_(programming_language)
-P	https://en.wikipedia.org/wiki/P_(programming_language)
-P4	https://en.wikipedia.org/wiki/P4_(programming_language)
-P′′	https://en.wikipedia.org/wiki/P%E2%80%B2%E2%80%B2
-ParaSail (programming language)	https://en.wikipedia.org/wiki/ParaSail_(programming_language)
-PARI/GP	https://en.wikipedia.org/wiki/PARI/GP
-Pascal	https://en.wikipedia.org/wiki/Pascal_(programming_language)
-Pascal Script	https://en.wikipedia.org/wiki/Pascal_Script
-PCASTL	https://en.wikipedia.org/wiki/PCASTL
-PCF	https://en.wikipedia.org/wiki/Programming_language_for_Computable_Functions
-PEARL	https://en.wikipedia.org/wiki/PEARL_(programming_language)
-PeopleCode	https://en.wikipedia.org/wiki/PeopleCode
-Perl	https://en.wikipedia.org/wiki/Perl
-PDL	https://en.wikipedia.org/wiki/Perl_Data_Language
-Pharo	https://en.wikipedia.org/wiki/Pharo
-PHP	https://en.wikipedia.org/wiki/PHP
-Pico	https://en.wikipedia.org/wiki/Pico_(programming_language)
-Picolisp	https://en.wikipedia.org/wiki/Picolisp
-Pict	https://en.wikipedia.org/wiki/Pict_(programming_language)
-Pike	https://en.wikipedia.org/wiki/Pike_(programming_language)
-PILOT	https://en.wikipedia.org/wiki/PILOT
-Pipelines	https://en.wikipedia.org/wiki/Hartmann_pipeline
-Pizza	https://en.wikipedia.org/wiki/Pizza_(programming_language)
-PL-11	https://en.wikipedia.org/wiki/PL-11
-PL/0	https://en.wikipedia.org/wiki/PL/0
-PL/B	https://en.wikipedia.org/wiki/Programming_Language_for_Business
-PL/C	https://en.wikipedia.org/wiki/PL/C
-PL/I	https://en.wikipedia.org/wiki/PL/I
-PL/M	https://en.wikipedia.org/wiki/PL/M
-PL/P	https://en.wikipedia.org/wiki/PL/P
-PL/SQL	https://en.wikipedia.org/wiki/PL/SQL
-PL360	https://en.wikipedia.org/wiki/PL360
-PLANC	https://en.wikipedia.org/wiki/PLANC
-Plankalkül	https://en.wikipedia.org/wiki/Plankalk%C3%BCl
-Planner	https://en.wikipedia.org/wiki/Planner_(programming_language)
-PLEX	https://en.wikipedia.org/wiki/PLEX_(programming_language)
-PLEXIL	https://en.wikipedia.org/wiki/PLEXIL
-Plus	https://en.wikipedia.org/wiki/Plus_(programming_language)
-POP-11	https://en.wikipedia.org/wiki/POP-11
-POP-2	https://en.wikipedia.org/wiki/POP-2
-PostScript	https://en.wikipedia.org/wiki/PostScript
-PortablE	https://en.wikipedia.org/wiki/Amiga_E
-POV-Ray SDL	https://en.wikipedia.org/wiki/POV-Ray
-Powerhouse	https://en.wikipedia.org/wiki/Powerhouse_(programming_language)
-PowerBuilder	https://en.wikipedia.org/wiki/PowerBuilder
-PowerShell	https://en.wikipedia.org/wiki/PowerShell
-PPL	https://en.wikipedia.org/wiki/Polymorphic_Programming_Language
-Processing	https://en.wikipedia.org/wiki/Processing_(programming_language)
-Processing.js	https://en.wikipedia.org/wiki/Processing.js
-Prograph	https://en.wikipedia.org/wiki/Prograph
-PROIV	https://en.wikipedia.org/wiki/PROIV
-Project Verona	https://en.wikipedia.org/wiki/Project_Verona
-Prolog	https://en.wikipedia.org/wiki/Prolog
-PROMAL	https://en.wikipedia.org/wiki/PROMAL
-Promela	https://en.wikipedia.org/wiki/Promela
-PROSE modeling language	https://en.wikipedia.org/wiki/PROSE_modeling_language
-PROTEL	https://en.wikipedia.org/wiki/Protel
-ProvideX	https://en.wikipedia.org/wiki/ProvideX
-Pro*C	https://en.wikipedia.org/wiki/Pro*C
-Pure	https://en.wikipedia.org/wiki/Pure_(programming_language)
-Pure Data	https://en.wikipedia.org/wiki/Pure_Data
-PureScript	https://en.wikipedia.org/wiki/PureScript
-Python	https://en.wikipedia.org/wiki/Python_(programming_language)
-Q (programming language from Kx Systems)	https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)
-Q# (Microsoft programming language)	https://en.wikipedia.org/wiki/Q_Sharp
-Qalb	https://en.wikipedia.org/wiki/Qalb_(programming_language)
-Quantum Computation Language	https://en.wikipedia.org/wiki/Quantum_Computation_Language
-QtScript	https://en.wikipedia.org/wiki/QtScript
-QuakeC	https://en.wikipedia.org/wiki/QuakeC
-QPL	https://en.wikipedia.org/wiki/Quantum_programming
-.QL	https://en.wikipedia.org/wiki/.QL
-R	https://en.wikipedia.org/wiki/R_(programming_language)
-R++	https://en.wikipedia.org/wiki/R%2B%2B
-Racket	https://en.wikipedia.org/wiki/Racket_(programming_language)
-Raku	https://en.wikipedia.org/wiki/Raku_(programming_language)
-RAPID	https://en.wikipedia.org/wiki/RAPID
-Rapira	https://en.wikipedia.org/wiki/Rapira
-Ratfiv	https://en.wikipedia.org/wiki/Ratfiv
-Ratfor	https://en.wikipedia.org/wiki/Ratfor
+octave	https://en.wikipedia.org/wiki/GNU_Octave
+omnimark	https://en.wikipedia.org/wiki/OmniMark
+opa	https://en.wikipedia.org/wiki/Opa_(programming_language)
+opal	https://en.wikipedia.org/wiki/Opal_(programming_language)
+opencl	https://en.wikipedia.org/wiki/OpenCL
+openedge abl	https://en.wikipedia.org/wiki/OpenEdge_Advanced_Business_Language
+opl	https://en.wikipedia.org/wiki/Open_Programming_Language
+openvera	https://en.wikipedia.org/wiki/OpenVera
+ops5	https://en.wikipedia.org/wiki/OPS5
+optimj	https://en.wikipedia.org/wiki/OptimJ
+orc	https://en.wikipedia.org/wiki/Orc_(programming_language)
+orca/modula-2	https://en.wikipedia.org/wiki/ORCA/Modula-2
+oriel	https://en.wikipedia.org/wiki/Oriel_(scripting_language)
+orwell	https://en.wikipedia.org/wiki/Orwell_(programming_language)
+oxygene	https://en.wikipedia.org/wiki/Oxygene_(programming_language)
+oz	https://en.wikipedia.org/wiki/Oz_(programming_language)
+p	https://en.wikipedia.org/wiki/P_(programming_language)
+p4	https://en.wikipedia.org/wiki/P4_(programming_language)
+p′′	https://en.wikipedia.org/wiki/P%E2%80%B2%E2%80%B2
+parasail	https://en.wikipedia.org/wiki/ParaSail_(programming_language)
+pari/gp	https://en.wikipedia.org/wiki/PARI/GP
+pascal	https://en.wikipedia.org/wiki/Pascal_(programming_language)
+pascal script	https://en.wikipedia.org/wiki/Pascal_Script
+pcastl	https://en.wikipedia.org/wiki/PCASTL
+pcf	https://en.wikipedia.org/wiki/Programming_language_for_Computable_Functions
+pearl	https://en.wikipedia.org/wiki/PEARL_(programming_language)
+peoplecode	https://en.wikipedia.org/wiki/PeopleCode
+perl	https://en.wikipedia.org/wiki/Perl
+pdl	https://en.wikipedia.org/wiki/Perl_Data_Language
+pharo	https://en.wikipedia.org/wiki/Pharo
+php	https://en.wikipedia.org/wiki/PHP
+pico	https://en.wikipedia.org/wiki/Pico_(programming_language)
+picolisp	https://en.wikipedia.org/wiki/Picolisp
+pict	https://en.wikipedia.org/wiki/Pict_(programming_language)
+pike	https://en.wikipedia.org/wiki/Pike_(programming_language)
+pilot	https://en.wikipedia.org/wiki/PILOT
+pipelines	https://en.wikipedia.org/wiki/Hartmann_pipeline
+pizza	https://en.wikipedia.org/wiki/Pizza_(programming_language)
+pl-11	https://en.wikipedia.org/wiki/PL-11
+pl/0	https://en.wikipedia.org/wiki/PL/0
+pl/b	https://en.wikipedia.org/wiki/Programming_Language_for_Business
+pl/c	https://en.wikipedia.org/wiki/PL/C
+pl/i	https://en.wikipedia.org/wiki/PL/I
+pl/m	https://en.wikipedia.org/wiki/PL/M
+pl/p	https://en.wikipedia.org/wiki/PL/P
+pl/sql	https://en.wikipedia.org/wiki/PL/SQL
+pl360	https://en.wikipedia.org/wiki/PL360
+planc	https://en.wikipedia.org/wiki/PLANC
+plankalkül	https://en.wikipedia.org/wiki/Plankalk%C3%BCl
+planner	https://en.wikipedia.org/wiki/Planner_(programming_language)
+plex	https://en.wikipedia.org/wiki/PLEX_(programming_language)
+plexil	https://en.wikipedia.org/wiki/PLEXIL
+plus	https://en.wikipedia.org/wiki/Plus_(programming_language)
+pop-11	https://en.wikipedia.org/wiki/POP-11
+pop-2	https://en.wikipedia.org/wiki/POP-2
+postscript	https://en.wikipedia.org/wiki/PostScript
+portable	https://en.wikipedia.org/wiki/Amiga_E
+pov-ray sdl	https://en.wikipedia.org/wiki/POV-Ray
+powerhouse	https://en.wikipedia.org/wiki/Powerhouse_(programming_language)
+powerbuilder	https://en.wikipedia.org/wiki/PowerBuilder
+powershell	https://en.wikipedia.org/wiki/PowerShell
+ppl	https://en.wikipedia.org/wiki/Polymorphic_Programming_Language
+processing	https://en.wikipedia.org/wiki/Processing_(programming_language)
+processing.js	https://en.wikipedia.org/wiki/Processing.js
+prograph	https://en.wikipedia.org/wiki/Prograph
+proiv	https://en.wikipedia.org/wiki/PROIV
+project verona	https://en.wikipedia.org/wiki/Project_Verona
+prolog	https://en.wikipedia.org/wiki/Prolog
+promal	https://en.wikipedia.org/wiki/PROMAL
+promela	https://en.wikipedia.org/wiki/Promela
+prose modeling language	https://en.wikipedia.org/wiki/PROSE_modeling_language
+protel	https://en.wikipedia.org/wiki/Protel
+providex	https://en.wikipedia.org/wiki/ProvideX
+pro*c	https://en.wikipedia.org/wiki/Pro*C
+pure	https://en.wikipedia.org/wiki/Pure_(programming_language)
+pure data	https://en.wikipedia.org/wiki/Pure_Data
+purescript	https://en.wikipedia.org/wiki/PureScript
+python	https://en.wikipedia.org/wiki/Python_(programming_language)
+q	https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)
+q#	https://en.wikipedia.org/wiki/Q_Sharp
+qalb	https://en.wikipedia.org/wiki/Qalb_(programming_language)
+quantum computation language	https://en.wikipedia.org/wiki/Quantum_Computation_Language
+qtscript	https://en.wikipedia.org/wiki/QtScript
+quakec	https://en.wikipedia.org/wiki/QuakeC
+qpl	https://en.wikipedia.org/wiki/Quantum_programming
+.ql	https://en.wikipedia.org/wiki/.QL
+r	https://en.wikipedia.org/wiki/R_(programming_language)
+r++	https://en.wikipedia.org/wiki/R%2B%2B
+racket	https://en.wikipedia.org/wiki/Racket_(programming_language)
+raku	https://en.wikipedia.org/wiki/Raku_(programming_language)
+rapid	https://en.wikipedia.org/wiki/RAPID
+rapira	https://en.wikipedia.org/wiki/Rapira
+ratfiv	https://en.wikipedia.org/wiki/Ratfiv
+ratfor	https://en.wikipedia.org/wiki/Ratfor
 rc	https://en.wikipedia.org/wiki/Rc
-Reason	https://en.wikipedia.org/wiki/Reason_(programming_language)
-REBOL	https://en.wikipedia.org/wiki/REBOL
-Red	https://en.wikipedia.org/wiki/Red_(programming_language)
-Redcode	https://en.wikipedia.org/wiki/Core_War
-REFAL	https://en.wikipedia.org/wiki/REFAL
-REXX	https://en.wikipedia.org/wiki/REXX
-Rlab	https://en.wikipedia.org/wiki/Rlab
-Rockstar	https://codewithrockstar.com/
-ROOP	https://en.wikipedia.org/wiki/ROOP_(programming_language)
-RPG	https://en.wikipedia.org/wiki/IBM_RPG
-RPL	https://en.wikipedia.org/wiki/RPL_(programming_language)
-RSL	https://en.wikipedia.org/wiki/Robot_Battle
-RTL/2	https://en.wikipedia.org/wiki/RTL/2
-Ruby	https://en.wikipedia.org/wiki/Ruby_(programming_language)
-Rust	https://en.wikipedia.org/wiki/Rust_(programming_language)
-S	https://en.wikipedia.org/wiki/S_(programming_language)
-S2	https://en.wikipedia.org/wiki/S2_(programming_language)
-S3	https://en.wikipedia.org/wiki/S3_(programming_language)
-S-Lang	https://en.wikipedia.org/wiki/S-Lang_(programming_language)
-S-PLUS	https://en.wikipedia.org/wiki/S-PLUS
-SA-C	https://en.wikipedia.org/wiki/SA-C_(programming_language)
-SabreTalk	https://en.wikipedia.org/wiki/SabreTalk
-SAIL	https://en.wikipedia.org/wiki/SAIL_(programming_language)
-SAS	https://en.wikipedia.org/wiki/SAS_System
-SASL	https://en.wikipedia.org/wiki/SASL_(programming_language)
-Sather	https://en.wikipedia.org/wiki/Sather
-Sawzall	https://en.wikipedia.org/wiki/Sawzall_(programming_language)
-Scala	https://en.wikipedia.org/wiki/Scala_(programming_language)
-Scheme	https://en.wikipedia.org/wiki/Scheme_(programming_language)
-Scilab	https://en.wikipedia.org/wiki/Scilab
-Scratch	https://en.wikipedia.org/wiki/Scratch_(programming_language)
-Script.NET	https://en.wikipedia.org/wiki/Script.NET
-Sed	https://en.wikipedia.org/wiki/Sed
-Seed7	https://en.wikipedia.org/wiki/Seed7
-Self	https://en.wikipedia.org/wiki/Self_(programming_language)
-SenseTalk	https://en.wikipedia.org/wiki/SenseTalk
-SequenceL	https://en.wikipedia.org/wiki/SequenceL
-Serpent	https://en.wikipedia.org/wiki/Ethereum
-SETL	https://en.wikipedia.org/wiki/SETL
-SIMPOL	https://en.wikipedia.org/wiki/Superbase_database
-SIGNAL	https://en.wikipedia.org/wiki/SIGNAL_(programming_language)
-SiMPLE	https://en.wikipedia.org/wiki/SiMPLE
-SIMSCRIPT	https://en.wikipedia.org/wiki/SIMSCRIPT
-Simula	https://en.wikipedia.org/wiki/Simula
-Simulink	https://en.wikipedia.org/wiki/Simulink
-Singularity	https://en.wikipedia.org/wiki/Singularity_(operating_system)
-SISAL	https://en.wikipedia.org/wiki/SISAL
-SLIP	https://en.wikipedia.org/wiki/SLIP_(programming_language)
-SMALL	https://en.wikipedia.org/wiki/SMALL
-Smalltalk	https://en.wikipedia.org/wiki/Smalltalk
-SML	https://en.wikipedia.org/wiki/Standard_ML
-Strongtalk	https://en.wikipedia.org/wiki/Strongtalk
-Snap!	https://en.wikipedia.org/wiki/Snap!_(programming_language)
-SNOBOL	https://en.wikipedia.org/wiki/SNOBOL
-SPITBOL	https://en.wikipedia.org/wiki/SPITBOL_compiler
-Snowball	https://en.wikipedia.org/wiki/Snowball_programming_language
-SOL	https://en.wikipedia.org/wiki/Secure_Operations_Language
-Solidity	https://en.wikipedia.org/wiki/Solidity
-SOPHAEROS	https://en.wikipedia.org/wiki/SOPHAEROS
-Source	https://en.wikipedia.org/wiki/Source_(programming_language)
-SPARK	https://en.wikipedia.org/wiki/SPARK_(programming_language)
-Speakeasy	https://en.wikipedia.org/wiki/Speakeasy_(computational_environment)
-Speedcode	https://en.wikipedia.org/wiki/Speedcoding
-SPIN	https://en.wikipedia.org/wiki/Parallax_Propeller
-SP/k	https://en.wikipedia.org/wiki/SP/k
-SPS	https://en.wikipedia.org/wiki/IBM_1401_Symbolic_Programming_System
-SQL	https://en.wikipedia.org/wiki/SQL
-SQR	https://en.wikipedia.org/wiki/SQR
-Squeak	https://en.wikipedia.org/wiki/Squeak
-Squirrel	https://en.wikipedia.org/wiki/Squirrel_(programming_language)
-SR	https://en.wikipedia.org/wiki/SR_(programming_language)
-S/SL	https://en.wikipedia.org/wiki/S/SL_programming_language
-Starlogo	https://en.wikipedia.org/wiki/Starlogo
-Strand	https://en.wikipedia.org/wiki/Strand_(programming_language)
-Stata	https://en.wikipedia.org/wiki/Stata
-Stateflow	https://en.wikipedia.org/wiki/Stateflow
-Subtext	https://en.wikipedia.org/wiki/Subtext_(programming_language)
-SBL	https://en.wikipedia.org/wiki/Superbase_database
-SuperCollider	https://en.wikipedia.org/wiki/SuperCollider
-SuperTalk	https://en.wikipedia.org/wiki/SuperTalk
-Swift (Apple programming language)	https://en.wikipedia.org/wiki/Swift_(programming_language)
-Swift (parallel scripting language)	https://en.wikipedia.org/wiki/Swift_(parallel_scripting_language)
-SYMPL	https://en.wikipedia.org/wiki/SYMPL
-SystemVerilog	https://en.wikipedia.org/wiki/SystemVerilog
-T	https://en.wikipedia.org/wiki/T_(programming_language)
-TACL	https://en.wikipedia.org/wiki/TACL
-TACPOL	https://en.wikipedia.org/wiki/TACPOL_(programming_language)
-TADS	https://en.wikipedia.org/wiki/TADS
-TAL	https://en.wikipedia.org/wiki/Transaction_Application_Language
-Tcl	https://en.wikipedia.org/wiki/Tcl
-Tea	https://en.wikipedia.org/wiki/Tea_(programming_language)
-TECO	https://en.wikipedia.org/wiki/Text_Editor_and_Corrector
-TELCOMP	https://en.wikipedia.org/wiki/TELCOMP
-TeX	https://en.wikipedia.org/wiki/TeX
-TEX	https://en.wikipedia.org/wiki/Text_Executive_Programming_Language
-TIE	https://en.wikipedia.org/wiki/Tensilica_Instruction_Extension
-TMG	https://en.wikipedia.org/wiki/TMG_(language)
-Tom	https://en.wikipedia.org/wiki/Tom_(pattern_matching_language)
-Toi	https://en.wikipedia.org/wiki/Toi_(programming_language)
-Topspeed	https://en.wikipedia.org/wiki/Clarion_(programming_language)
-TPU	https://en.wikipedia.org/wiki/Text_Processing_Utility
-Trac	https://en.wikipedia.org/wiki/TRAC_(programming_language)
-TTM	https://en.wikipedia.org/wiki/TTM_(programming_language)
-T-SQL	https://en.wikipedia.org/wiki/Transact-SQL
-Transcript	https://en.wikipedia.org/wiki/Transcript_(programming_language)
-TTCN	https://en.wikipedia.org/wiki/TTCN
-Turing	https://en.wikipedia.org/wiki/Turing_(programming_language)
-TUTOR	https://en.wikipedia.org/wiki/TUTOR_(programming_language)
-TXL	https://en.wikipedia.org/wiki/TXL_(programming_language)
-TypeScript	https://en.wikipedia.org/wiki/TypeScript
-Tynker	https://en.wikipedia.org/wiki/Tynker
-Ubercode	https://en.wikipedia.org/wiki/Ubercode
-UCSD Pascal	https://en.wikipedia.org/wiki/UCSD_Pascal
-Umple	https://en.wikipedia.org/wiki/Umple
-Unicon	https://en.wikipedia.org/wiki/Unicon_(programming_language)
-Uniface	https://en.wikipedia.org/wiki/Uniface_(programming_language)
-UNITY	https://en.wikipedia.org/wiki/UNITY_(programming_language)
-Unix shell	https://en.wikipedia.org/wiki/Unix_shell
-UnrealScript	https://en.wikipedia.org/wiki/UnrealScript
-Vala	https://en.wikipedia.org/wiki/Vala_(programming_language)
-Verilog	https://en.wikipedia.org/wiki/Verilog
-VHDL	https://en.wikipedia.org/wiki/VHDL
-Vim script	https://en.wikipedia.org/wiki/Vim_(text_editor)
-Viper	https://en.wikipedia.org/wiki/Ethereum
-Visual DataFlex	https://en.wikipedia.org/wiki/Visual_DataFlex
-Visual DialogScript	https://en.wikipedia.org/wiki/Visual_DialogScript
-Visual FoxPro	https://en.wikipedia.org/wiki/Visual_FoxPro
-Visual J++	https://en.wikipedia.org/wiki/Visual_J%2B%2B
-Visual LISP	https://en.wikipedia.org/wiki/AutoLISP
-Visual Objects	https://en.wikipedia.org/wiki/Visual_Objects
-Visual Prolog	https://en.wikipedia.org/wiki/Visual_Prolog
-WATFIV, WATFOR	https://en.wikipedia.org/wiki/WATFIV_(programming_language)
-WebAssembly	https://en.wikipedia.org/wiki/WebAssembly
-WebDNA	https://en.wikipedia.org/wiki/WebDNA
-Whiley	https://en.wikipedia.org/wiki/Whiley_(programming_language)
-Winbatch	https://en.wikipedia.org/wiki/Winbatch
-Wolfram Language	https://en.wikipedia.org/wiki/Wolfram_Language
-Wyvern	https://en.wikipedia.org/wiki/Wyvern_(programming_language)
-X++	https://en.wikipedia.org/wiki/X%2B%2B
-X10	https://en.wikipedia.org/wiki/X10_(programming_language)
-xBase	https://en.wikipedia.org/wiki/XBase
-xBase++	https://en.wikipedia.org/wiki/XBase%2B%2B
-XBL	https://en.wikipedia.org/wiki/XBL
-XC	https://en.wikipedia.org/wiki/XC_(programming_language)
-XMOS architecture	https://en.wikipedia.org/wiki/XCore_XS1
-xHarbour	https://en.wikipedia.org/wiki/XHarbour
-XL	https://en.wikipedia.org/wiki/XL_(programming_language)
-Xojo	https://en.wikipedia.org/wiki/Xojo
-XOTcl	https://en.wikipedia.org/wiki/XOTcl
-Xod	https://en.wikipedia.org/wiki/XOD_(programming_language)
-XPL	https://en.wikipedia.org/wiki/XPL
-XPL0	https://en.wikipedia.org/wiki/XPL0
-XQuery	https://en.wikipedia.org/wiki/XQuery
-XSB	https://en.wikipedia.org/wiki/XSB
-XSharp	https://en.wikipedia.org/wiki/XSharp
-XSLT	https://en.wikipedia.org/wiki/XSL_Transformations
-Xtend	https://en.wikipedia.org/wiki/Xtend
-Yorick	https://en.wikipedia.org/wiki/Yorick_(programming_language)
-YQL	https://en.wikipedia.org/wiki/YQL_(programming_language)
-Yoix	https://en.wikipedia.org/wiki/Yoix
-YUI	https://en.wikipedia.org/wiki/YUI_Library
-Z notation	https://en.wikipedia.org/wiki/Z_notation
-Zebra, ZPL, ZPL2	https://en.wikipedia.org/wiki/Zebra_(programming_language)
-Zeno	https://en.wikipedia.org/wiki/Zeno_(programming_language)
-ZetaLisp	https://en.wikipedia.org/wiki/ZetaLisp
-Zig	https://en.wikipedia.org/wiki/Zig_(programming_language)
-ZOPL	https://en.wikipedia.org/wiki/ZOPL
-ZPL	https://en.wikipedia.org/wiki/ZPL_(programming_language)
-Z++	https://en.wikipedia.org/wiki/Z%2B%2B
+reason	https://en.wikipedia.org/wiki/Reason_(programming_language)
+rebol	https://en.wikipedia.org/wiki/REBOL
+red	https://en.wikipedia.org/wiki/Red_(programming_language)
+redcode	https://en.wikipedia.org/wiki/Core_War
+refal	https://en.wikipedia.org/wiki/REFAL
+rexx	https://en.wikipedia.org/wiki/REXX
+rlab	https://en.wikipedia.org/wiki/Rlab
+rockstar	https://codewithrockstar.com/
+roop	https://en.wikipedia.org/wiki/ROOP_(programming_language)
+rpg	https://en.wikipedia.org/wiki/IBM_RPG
+rpl	https://en.wikipedia.org/wiki/RPL_(programming_language)
+rsl	https://en.wikipedia.org/wiki/Robot_Battle
+rtl/2	https://en.wikipedia.org/wiki/RTL/2
+ruby	https://en.wikipedia.org/wiki/Ruby_(programming_language)
+rust	https://en.wikipedia.org/wiki/Rust_(programming_language)
+s	https://en.wikipedia.org/wiki/S_(programming_language)
+s2	https://en.wikipedia.org/wiki/S2_(programming_language)
+s3	https://en.wikipedia.org/wiki/S3_(programming_language)
+s-lang	https://en.wikipedia.org/wiki/S-Lang_(programming_language)
+s-plus	https://en.wikipedia.org/wiki/S-PLUS
+sa-c	https://en.wikipedia.org/wiki/SA-C_(programming_language)
+sabretalk	https://en.wikipedia.org/wiki/SabreTalk
+sail	https://en.wikipedia.org/wiki/SAIL_(programming_language)
+sas	https://en.wikipedia.org/wiki/SAS_System
+sasl	https://en.wikipedia.org/wiki/SASL_(programming_language)
+sather	https://en.wikipedia.org/wiki/Sather
+sawzall	https://en.wikipedia.org/wiki/Sawzall_(programming_language)
+scala	https://en.wikipedia.org/wiki/Scala_(programming_language)
+scheme	https://en.wikipedia.org/wiki/Scheme_(programming_language)
+scilab	https://en.wikipedia.org/wiki/Scilab
+scratch	https://en.wikipedia.org/wiki/Scratch_(programming_language)
+script.net	https://en.wikipedia.org/wiki/Script.NET
+sed	https://en.wikipedia.org/wiki/Sed
+seed7	https://en.wikipedia.org/wiki/Seed7
+self	https://en.wikipedia.org/wiki/Self_(programming_language)
+sensetalk	https://en.wikipedia.org/wiki/SenseTalk
+sequencel	https://en.wikipedia.org/wiki/SequenceL
+serpent	https://en.wikipedia.org/wiki/Ethereum
+setl	https://en.wikipedia.org/wiki/SETL
+simpol	https://en.wikipedia.org/wiki/Superbase_database
+signal	https://en.wikipedia.org/wiki/SIGNAL_(programming_language)
+simple	https://en.wikipedia.org/wiki/SiMPLE
+simscript	https://en.wikipedia.org/wiki/SIMSCRIPT
+simula	https://en.wikipedia.org/wiki/Simula
+simulink	https://en.wikipedia.org/wiki/Simulink
+singularity	https://en.wikipedia.org/wiki/Singularity_(operating_system)
+sisal	https://en.wikipedia.org/wiki/SISAL
+slip	https://en.wikipedia.org/wiki/SLIP_(programming_language)
+small	https://en.wikipedia.org/wiki/SMALL
+smalltalk	https://en.wikipedia.org/wiki/Smalltalk
+sml	https://en.wikipedia.org/wiki/Standard_ML
+strongtalk	https://en.wikipedia.org/wiki/Strongtalk
+snap!	https://en.wikipedia.org/wiki/Snap!_(programming_language)
+snobol	https://en.wikipedia.org/wiki/SNOBOL
+spitbol	https://en.wikipedia.org/wiki/SPITBOL_compiler
+snowball	https://en.wikipedia.org/wiki/Snowball_programming_language
+sol	https://en.wikipedia.org/wiki/Secure_Operations_Language
+solidity	https://en.wikipedia.org/wiki/Solidity
+sophaeros	https://en.wikipedia.org/wiki/SOPHAEROS
+source	https://en.wikipedia.org/wiki/Source_(programming_language)
+spark	https://en.wikipedia.org/wiki/SPARK_(programming_language)
+speakeasy	https://en.wikipedia.org/wiki/Speakeasy_(computational_environment)
+speedcode	https://en.wikipedia.org/wiki/Speedcoding
+spin	https://en.wikipedia.org/wiki/Parallax_Propeller
+sp/k	https://en.wikipedia.org/wiki/SP/k
+sps	https://en.wikipedia.org/wiki/IBM_1401_Symbolic_Programming_System
+sql	https://en.wikipedia.org/wiki/SQL
+sqr	https://en.wikipedia.org/wiki/SQR
+squeak	https://en.wikipedia.org/wiki/Squeak
+squirrel	https://en.wikipedia.org/wiki/Squirrel_(programming_language)
+sr	https://en.wikipedia.org/wiki/SR_(programming_language)
+s/sl	https://en.wikipedia.org/wiki/S/SL_programming_language
+starlogo	https://en.wikipedia.org/wiki/Starlogo
+strand	https://en.wikipedia.org/wiki/Strand_(programming_language)
+stata	https://en.wikipedia.org/wiki/Stata
+stateflow	https://en.wikipedia.org/wiki/Stateflow
+subtext	https://en.wikipedia.org/wiki/Subtext_(programming_language)
+sbl	https://en.wikipedia.org/wiki/Superbase_database
+supercollider	https://en.wikipedia.org/wiki/SuperCollider
+supertalk	https://en.wikipedia.org/wiki/SuperTalk
+swift	https://en.wikipedia.org/wiki/Swift_(programming_language)
+swift	https://en.wikipedia.org/wiki/Swift_(parallel_scripting_language)
+sympl	https://en.wikipedia.org/wiki/SYMPL
+systemverilog	https://en.wikipedia.org/wiki/SystemVerilog
+t	https://en.wikipedia.org/wiki/T_(programming_language)
+tacl	https://en.wikipedia.org/wiki/TACL
+tacpol	https://en.wikipedia.org/wiki/TACPOL_(programming_language)
+tads	https://en.wikipedia.org/wiki/TADS
+tal	https://en.wikipedia.org/wiki/Transaction_Application_Language
+tcl	https://en.wikipedia.org/wiki/Tcl
+tea	https://en.wikipedia.org/wiki/Tea_(programming_language)
+teco	https://en.wikipedia.org/wiki/Text_Editor_and_Corrector
+telcomp	https://en.wikipedia.org/wiki/TELCOMP
+tex	https://en.wikipedia.org/wiki/TeX
+tex	https://en.wikipedia.org/wiki/Text_Executive_Programming_Language
+tie	https://en.wikipedia.org/wiki/Tensilica_Instruction_Extension
+tmg	https://en.wikipedia.org/wiki/TMG_(language)
+tom	https://en.wikipedia.org/wiki/Tom_(pattern_matching_language)
+toi	https://en.wikipedia.org/wiki/Toi_(programming_language)
+topspeed	https://en.wikipedia.org/wiki/Clarion_(programming_language)
+tpu	https://en.wikipedia.org/wiki/Text_Processing_Utility
+trac	https://en.wikipedia.org/wiki/TRAC_(programming_language)
+ttm	https://en.wikipedia.org/wiki/TTM_(programming_language)
+t-sql	https://en.wikipedia.org/wiki/Transact-SQL
+transcript	https://en.wikipedia.org/wiki/Transcript_(programming_language)
+ttcn	https://en.wikipedia.org/wiki/TTCN
+turing	https://en.wikipedia.org/wiki/Turing_(programming_language)
+tutor	https://en.wikipedia.org/wiki/TUTOR_(programming_language)
+txl	https://en.wikipedia.org/wiki/TXL_(programming_language)
+typescript	https://en.wikipedia.org/wiki/TypeScript
+tynker	https://en.wikipedia.org/wiki/Tynker
+ubercode	https://en.wikipedia.org/wiki/Ubercode
+ucsd pascal	https://en.wikipedia.org/wiki/UCSD_Pascal
+umple	https://en.wikipedia.org/wiki/Umple
+unicon	https://en.wikipedia.org/wiki/Unicon_(programming_language)
+uniface	https://en.wikipedia.org/wiki/Uniface_(programming_language)
+unity	https://en.wikipedia.org/wiki/UNITY_(programming_language)
+unix shell	https://en.wikipedia.org/wiki/Unix_shell
+unrealscript	https://en.wikipedia.org/wiki/UnrealScript
+vala	https://en.wikipedia.org/wiki/Vala_(programming_language)
+verilog	https://en.wikipedia.org/wiki/Verilog
+vhdl	https://en.wikipedia.org/wiki/VHDL
+vim script	https://en.wikipedia.org/wiki/Vim_(text_editor)
+viper	https://en.wikipedia.org/wiki/Ethereum
+visual dataflex	https://en.wikipedia.org/wiki/Visual_DataFlex
+visual dialogscript	https://en.wikipedia.org/wiki/Visual_DialogScript
+visual foxpro	https://en.wikipedia.org/wiki/Visual_FoxPro
+visual j++	https://en.wikipedia.org/wiki/Visual_J%2B%2B
+visual lisp	https://en.wikipedia.org/wiki/AutoLISP
+visual objects	https://en.wikipedia.org/wiki/Visual_Objects
+visual prolog	https://en.wikipedia.org/wiki/Visual_Prolog
+watfiv, watfor	https://en.wikipedia.org/wiki/WATFIV_(programming_language)
+webassembly	https://en.wikipedia.org/wiki/WebAssembly
+webdna	https://en.wikipedia.org/wiki/WebDNA
+whiley	https://en.wikipedia.org/wiki/Whiley_(programming_language)
+winbatch	https://en.wikipedia.org/wiki/Winbatch
+wolfram language	https://en.wikipedia.org/wiki/Wolfram_Language
+wyvern	https://en.wikipedia.org/wiki/Wyvern_(programming_language)
+x++	https://en.wikipedia.org/wiki/X%2B%2B
+x10	https://en.wikipedia.org/wiki/X10_(programming_language)
+xbase	https://en.wikipedia.org/wiki/XBase
+xbase++	https://en.wikipedia.org/wiki/XBase%2B%2B
+xbl	https://en.wikipedia.org/wiki/XBL
+xc	https://en.wikipedia.org/wiki/XC_(programming_language)
+xmos architecture	https://en.wikipedia.org/wiki/XCore_XS1
+xharbour	https://en.wikipedia.org/wiki/XHarbour
+xl	https://en.wikipedia.org/wiki/XL_(programming_language)
+xojo	https://en.wikipedia.org/wiki/Xojo
+xotcl	https://en.wikipedia.org/wiki/XOTcl
+xod	https://en.wikipedia.org/wiki/XOD_(programming_language)
+xpl	https://en.wikipedia.org/wiki/XPL
+xpl0	https://en.wikipedia.org/wiki/XPL0
+xquery	https://en.wikipedia.org/wiki/XQuery
+xsb	https://en.wikipedia.org/wiki/XSB
+xsharp	https://en.wikipedia.org/wiki/XSharp
+xslt	https://en.wikipedia.org/wiki/XSL_Transformations
+xtend	https://en.wikipedia.org/wiki/Xtend
+yorick	https://en.wikipedia.org/wiki/Yorick_(programming_language)
+yql	https://en.wikipedia.org/wiki/YQL_(programming_language)
+yoix	https://en.wikipedia.org/wiki/Yoix
+yui	https://en.wikipedia.org/wiki/YUI_Library
+z notation	https://en.wikipedia.org/wiki/Z_notation
+zebra, zpl, zpl2	https://en.wikipedia.org/wiki/Zebra_(programming_language)
+zeno	https://en.wikipedia.org/wiki/Zeno_(programming_language)
+zetalisp	https://en.wikipedia.org/wiki/ZetaLisp
+zig	https://en.wikipedia.org/wiki/Zig_(programming_language)
+zopl	https://en.wikipedia.org/wiki/ZOPL
+zpl	https://en.wikipedia.org/wiki/ZPL_(programming_language)
+z++	https://en.wikipedia.org/wiki/Z%2B%2B

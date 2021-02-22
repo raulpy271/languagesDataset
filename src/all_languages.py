@@ -1,7 +1,7 @@
 from pandas import DataFrame
 
 from .driver import get_driver
-from .utils import remove_id_from_url, link_isnt_broken
+from .utils import remove_id_from_url, link_isnt_broken, format_name
 from .consts import link_to_all_languages, path_to_links_dataset
 
 
@@ -44,6 +44,7 @@ def get_df_with_all_languages(driver, link_to_all_languages):
     all_languages = get_all_languages(driver, link_to_all_languages)
     df = DataFrame(all_languages)
     df['source'] = df['source'].map(remove_id_from_url)
+    df['name'] = df['name'].map(format_name)
     df = df.drop_duplicates()
     return df
 

@@ -49,13 +49,3 @@ def format_name(name):
     return remove_start_and_end_spaces(name)
 
 
-errors = []
-
-def f(name):
-    try:
-        return format_name(name)
-    except:
-        errors.append(name)
-        return name
-
-

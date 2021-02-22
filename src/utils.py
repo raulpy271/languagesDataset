@@ -13,6 +13,19 @@ def remove_id_from_url(url):
     return url
 
 
+def link_is_broken(link):
+    title = link.get_attribute('title')
+    if ('new' in link.get_attribute('class')
+            or 'action=edit' in link.get_attribute('href')
+            or 'page does not exist' in title):
+        return True
+    return False
+
+
+def link_isnt_broken(link):
+    return not link_is_broken(link)
+
+
 def remove_start_and_end_spaces(text):
     without_initial_spaces = get_first_group('\s*(\S.*)', text)
     without_end_spaces = get_first_group('(.*\S)\s*', without_initial_spaces)
@@ -25,9 +38,24 @@ def remove_content_from_parentheses(text):
     return text_before_parentheses
 
 
+def should_remove_parentheses(text):
+    return '(' in text and ')' in text
+
+
 def format_name(name):
     name = name.lower()
-    text_before_parentheses = remove_content_from_parentheses(name)
-    return remove_start_and_end_spaces(text_before_parentheses)
+    if should_remove_parentheses(name):
+        name = remove_content_from_parentheses(name)
+    return remove_start_and_end_spaces(name)
+
+
+errors = []
+
+def f(name):
+    try:
+        return format_name(name)
+    except:
+        errors.append(name)
+        return name
 
 

@@ -1,7 +1,7 @@
 from pandas import DataFrame
 
 from .driver import get_driver
-from .utils import remove_id_from_url
+from .utils import remove_id_from_url, link_isnt_broken
 from .consts import link_to_all_languages, path_to_links_dataset
 
 
@@ -21,7 +21,8 @@ def get_language_info_from_link(link):
 
 def get_all_languages_from_div(div):
     all_links = get_links_to_languages_from_div(div)
-    all_names = map(get_language_info_from_link, all_links)
+    links_not_broken = filter(link_isnt_broken, all_links)
+    all_names = map(get_language_info_from_link, links_not_broken)
     return list(all_names)
 
 

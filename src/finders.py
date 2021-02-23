@@ -21,7 +21,7 @@ def get_row_from_infobox_with_an_specific_text(driver, text):
 
 def get_row_from_infobox_with_a_text_from_a_list(driver, list_of_text):
     for text in list_of_text:
-        row = get_row_from_infobox_with_an_specific_text(text)
+        row = get_row_from_infobox_with_an_specific_text(driver, text)
         if row:
             return row
 

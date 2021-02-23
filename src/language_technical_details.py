@@ -1,7 +1,19 @@
 from .driver import get_driver
+from .utils import get_year
 from .finders import (
     get_infobox_rows,
-    get_row_from_infobox_with_an_specific_text)
+    get_row_from_infobox_with_an_specific_text,
+    get_row_from_infobox_with_a_text_from_a_list)
+
+
+def get_year_of_first_release(driver):
+    text_to_search = ['initial release', 'first appeared']
+    initial_release_td = (
+        get_row_from_infobox_with_a_text_from_a_list(driver, text_to_search)) 
+    if initial_release_td:
+        text_initial_release = initial_release_td.text
+        year = get_year(text_initial_release)
+        return year
 
 
 def get_list_of_type_systems(driver):
@@ -52,6 +64,7 @@ def get_details_about_language_from_wiki(driver, language_wiki):
     language_details = {}
     driver.get(language_wiki)
     language_details['about'] = get_first_paragraph(driver)
+    language_details['first_release'] = get_year_of_first_release(driver)
     language_details['types'] = get_list_of_type_systems(driver)
     language_details['paradigms'] = get_paradigms(driver)
     language_details['website'] = get_website(driver)
@@ -61,7 +74,7 @@ def get_details_about_language_from_wiki(driver, language_wiki):
 if __name__ == '__main__':
     driver = get_driver()
     language_wiki = (
-        'https://en.wikipedia.org/wiki/Clojure')
+        'https://en.wikipedia.org/wiki/Bash_(Unix_shell)')
     language_details = get_details_about_language_from_wiki(
         driver,
         language_wiki)

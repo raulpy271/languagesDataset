@@ -49,3 +49,9 @@ def format_name(name):
     return remove_start_and_end_spaces(name)
 
 
+def get_year(text):
+    year_match = match('.*(\d{4}).*', text)
+    if year_match:
+        return year_match.groups()[0]
+
+

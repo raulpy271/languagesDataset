@@ -1,6 +1,12 @@
 from re import match
 
 
+def change_types_to_save_memory(languages, pandas):
+    languages_with_year_in_integer = languages.astype({
+        'first_release' : pandas.UInt16Dtype()})
+    return languages_with_year_in_integer
+
+
 def get_first_group(regex, text):
     return match(regex, text).groups()[0]
 

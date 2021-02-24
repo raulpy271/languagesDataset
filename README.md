@@ -1,2 +1,4 @@
-# languagesDataset
-A Dataset with programming languages informations
+# Datasets with programming languages info
+
+![Script mining data](/assets/extracting-languages-info.gif)
+

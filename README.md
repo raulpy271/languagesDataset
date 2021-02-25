@@ -49,3 +49,27 @@ from datasets import languages
 ```
 
 ## How to setup the script
+
+If you want to run this module to create in your pc the dataset with languages you need to install the dependencies and setup some configuration.
+
+To install the dependencies, clone the repo and type and your terminal:
+
+```sh
+pip install -r requirements.txt
+```
+
+After installing the dependencies, you should configure the following:
+
+This module use [selenium](https://www.selenium.dev/) to communicate with a web browser and navigate through the sites, so, you should install a web driver for help selenium to communicate with you browser, see [this](https://selenium-python.readthedocs.io/installation.html) tutorial if you don't know. 
+
+After the download of your driver, you should tell the selenium where are the binaries of the driver and the browser, to make it, change the function [get_driver](/src/driver.py), which create instances of a driver.
+
+After making the bellow configuration, you can run the module:
+
+```sh
+python main.py
+```
+
+With this command the script will navigate through Wikipedia searching all languages info, after the end of the process, the datasets will be saved in a path defined in the [consts.py](/src/consts.py) file, you can change it.
+
+Besides, if you want only to test the script and you don't want to wait for the entire process, so there is a way to search only the first languages. The way is defining an environment variable called `TESTING` which has a `True` value. To define this variable use the [.env](https://pypi.org/project/python-dotenv/) file.

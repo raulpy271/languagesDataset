@@ -32,4 +32,20 @@ If you want to see more examples of the usage, see [this](/queries_examples.ipyn
 
 ## How to use the dataset
 
+The dataset is stored in `.csv` format inside the [datasets](/datasets/) directory, so, you only need to paste the link of the file:
+
+```py
+import pandas as pd
+df_link = 'https://gist.githubusercontent.com/raulpy271/d2721c377c6c36926e4524c9f576b47b/raw/1efbd562e79671de0d9c7689e7162e0782a94ef7/languages.tsv'
+df = pd.read_csv(df_link, sep='\t')
+```
+
+The above code can be used in [Jupyter](https://jupyter.org/), in [google colab](https://colab.research.google.com/), or in whatever environment that you have since you have pandas installed.
+
+Another option is to clone this repository and imports the datasets from the top-level package:
+
+```py
+from datasets import languages
+```
+
 ## How to setup the script

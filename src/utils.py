@@ -1,9 +1,9 @@
 from re import match
 
 
-def change_types_to_save_memory(languages, pandas):
+def change_types_to_save_memory(languages):
     languages_with_year_in_integer = languages.astype({
-        'first_release' : pandas.UInt16Dtype()})
+        'first_release' : 'UInt16'})
     return languages_with_year_in_integer
 
 

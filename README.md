@@ -29,7 +29,7 @@ The following code query the newest programming languages:
 51        ballerina           2017
 ```
 
-If you want to see more examples of the usage, see [this](/queries_examples.ipynb) page.
+If you want to see more examples of the usage, see [this](/queries_examples.ipynb) notebook in the github, or [here](https://colab.research.google.com/drive/1bWC0y_HqwqCcYpT4q8RHYltzBcFtB4u8) in google colab.
 
 ## How to use the dataset
 
@@ -37,7 +37,7 @@ The dataset is stored in `.csv` format inside the [datasets](/datasets/) directo
 
 ```py
 import pandas as pd
-df_link = 'https://gist.githubusercontent.com/raulpy271/d2721c377c6c36926e4524c9f576b47b/raw/1efbd562e79671de0d9c7689e7162e0782a94ef7/languages.tsv'
+df_link = 'https://raw.githubusercontent.com/raulpy271/languagesDataset/main/datasets/all_languages.tsv'
 df = pd.read_csv(df_link, sep='\t')
 ```
 

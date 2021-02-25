@@ -20,6 +20,7 @@ The following code query the newest programming languages:
 >>> from datasets import languages
 >>> languages.sort_values('first_release', ascending=False, inplace=True)
 >>> languages[['name', 'first_release']].head()
+
                name  first_release
 494  project verona           2019
 65           bosque           2019
@@ -50,9 +51,9 @@ from datasets import languages
 
 ## How to setup the script
 
-If you want to run this module to create in your pc the dataset with languages you need to install the dependencies and setup some configuration.
+If you want to run this module to create the dataset with languages you need to install the dependencies and setup some configuration.
 
-To install the dependencies, clone the repo and type and your terminal:
+To install the dependencies, clone the repo and type in your terminal:
 
 ```sh
 pip install -r requirements.txt
